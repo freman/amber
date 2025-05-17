@@ -1,9 +1,9 @@
-// Copyright 2023 Shannon Wynter
+// Copyright 2025 Shannon Wynter
 //
 // This software may be modified and distributed under the terms
 // of the MIT license.  See the LICENSE file for details.
 
-package schema
+package amber
 
 import "time"
 
@@ -18,3 +18,13 @@ type Renewable struct {
 	Renewables float64             `json:"renewables"` // Percentage of renewables in the grid 0-100
 	Descriptor RenewableDescriptor `json:"descriptor"` // Describes the state of renewables. Gives you an indication of how green power is right now
 }
+
+type RenewableDescriptor string
+
+const (
+	RenewableDescriptorBest     RenewableDescriptor = "best"
+	RenewableDescriptorGreat    RenewableDescriptor = "great"
+	RenewableDescriptorOk       RenewableDescriptor = "ok"
+	RenewableDescriptorNotGreat RenewableDescriptor = "notGreat"
+	RenewableDescriptorWorst    RenewableDescriptor = "worst"
+)

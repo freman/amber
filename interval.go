@@ -1,9 +1,9 @@
-// Copyright 2023 Shannon Wynter
+// Copyright 2025 Shannon Wynter
 //
 // This software may be modified and distributed under the terms
 // of the MIT license.  See the LICENSE file for details.
 
-package schema
+package amber
 
 import (
 	"encoding/json"
@@ -185,3 +185,36 @@ func (im *IntervalMap[T]) UnmarshalJSON(data []byte) error {
 
 	return nil
 }
+
+type Descriptor string
+
+const (
+	DescriptorNegative     Descriptor = "negative"
+	DescriptorExtremelyLow Descriptor = "extremelyLow"
+	DescriptorVeryLow      Descriptor = "veryLow"
+	DescriptorLow          Descriptor = "low"
+	DescriptorNeutral      Descriptor = "neutral"
+	DescriptorHigh         Descriptor = "high"
+	DescriptorSpike        Descriptor = "spike"
+)
+
+type Quality string
+
+const (
+	QualityEstimate Quality = "estimated"
+	QualityBillable Quality = "billable"
+)
+
+// Range is used when prices are particularly volatile, the API may return a range of prices that are possible.
+type Range struct {
+	Min float64 `json:"min"` // Estimated minimum price (c/kWh)
+	Max float64 `json:"max"` // Estimated maximum price (c/kWh)
+}
+
+type SpikeStatus string
+
+const (
+	SpikeStatusNone      SpikeStatus = "none"
+	SpikeStatusPotential SpikeStatus = "potential"
+	SpikeStatusSpike     SpikeStatus = "spike"
+)

@@ -1,4 +1,4 @@
-// Copyright 2023 Shannon Wynter
+// Copyright 2025 Shannon Wynter
 //
 // This software may be modified and distributed under the terms
 // of the MIT license.  See the LICENSE file for details.
@@ -13,8 +13,6 @@ import (
 	"net/http"
 	"net/url"
 	"time"
-
-	"github.com/freman/amber/schema"
 )
 
 type Client struct {
@@ -57,7 +55,7 @@ func New(token string, opts ...Option) *Client {
 //	WithNext - Return the next number of forecast intervals
 //	WithPrevious - Return the previous number of actual intervals.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
-func (c *Client) GetCurrentRenewables(state string, args ...DayQueryArgument) ([]schema.Renewable, error) {
+func (c *Client) GetCurrentRenewables(state string, args ...QueryArgument) ([]Renewable, error) {
 	if !(state == "nsw" || state == "qld" || state == "vic" || state == "sa") {
 		return nil, ErrInvalidState
 	}
@@ -74,7 +72,7 @@ func (c *Client) GetCurrentRenewables(state string, args ...DayQueryArgument) ([
 
 	uri += "?" + query.Encode()
 
-	var res []schema.Renewable
+	var res []Renewable
 	if err := c.get(uri, &res); err != nil {
 		return nil, err
 	}
@@ -83,8 +81,8 @@ func (c *Client) GetCurrentRenewables(state string, args ...DayQueryArgument) ([
 }
 
 // GetSites returns all sites linked to your account.
-func (c *Client) GetSites() ([]schema.Site, error) {
-	var res []schema.Site
+func (c *Client) GetSites() ([]Site, error) {
+	var res []Site
 	if err := c.get(c.baseURL+"/sites", &res); err != nil {
 		return nil, err
 	}
@@ -101,7 +99,7 @@ func (c *Client) GetSites() ([]schema.Site, error) {
 //	WithStartDate - Return all prices for each interval on and after this day. Defaults to today.
 //	WithEndDate - Return all prices for each interval on and before this day. Defaults to today.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 5, 30. Default: 30
-func (c *Client) GetPrices(siteID string, args ...DateQueryArgument) (schema.IntervalMap[schema.Interval], error) {
+func (c *Client) GetPrices(siteID string, args ...QueryArgument) (IntervalMap[Interval], error) {
 	uri := fmt.Sprintf(c.baseURL+"/sites/%s/prices", siteID)
 
 	query := url.Values{}
@@ -114,7 +112,7 @@ func (c *Client) GetPrices(siteID string, args ...DateQueryArgument) (schema.Int
 		uri += "?" + query.Encode()
 	}
 
-	var res schema.IntervalMap[schema.Interval]
+	var res IntervalMap[Interval]
 	if err := c.get(uri, &res); err != nil {
 		return nil, err
 	}
@@ -131,7 +129,7 @@ func (c *Client) GetPrices(siteID string, args ...DateQueryArgument) (schema.Int
 //	WithNext - Return the next number of forecast intervals
 //	WithPrevious - Return the previous number of actual intervals.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
-func (c *Client) GetCurrentPrices(siteID string, args ...DateQueryArgument) (schema.IntervalMap[schema.Interval], error) {
+func (c *Client) GetCurrentPrices(siteID string, args ...QueryArgument) (IntervalMap[Interval], error) {
 	uri := fmt.Sprintf(c.baseURL+"/sites/%s/prices/current", siteID)
 
 	query := url.Values{}
@@ -142,7 +140,7 @@ func (c *Client) GetCurrentPrices(siteID string, args ...DateQueryArgument) (sch
 
 	uri += "?" + query.Encode()
 
-	var res schema.IntervalMap[schema.Interval]
+	var res IntervalMap[Interval]
 	if err := c.get(uri, &res); err != nil {
 		return nil, err
 	}
@@ -159,13 +157,11 @@ func (c *Client) GetCurrentPrices(siteID string, args ...DateQueryArgument) (sch
 //
 //	WithStartDate - Return all usage for each interval on and after this day.
 //	WithEndDate - Return all usage for each interval on and before this day.
-//	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
-func (c *Client) GetUsage(siteID string, args ...DateQueryArgument) ([]schema.Usage, error) {
+//	WithResolution - Deprecated, upstream will ignore it
+func (c *Client) GetUsage(siteID string, args ...QueryArgument) (map[ChannelType][]Usage, error) {
 	uri := fmt.Sprintf(c.baseURL+"/sites/%s/usage", siteID)
 
-	query := url.Values{
-		"resolution": []string{"30"},
-	}
+	query := url.Values{}
 
 	for _, arg := range args {
 		arg(query)
@@ -173,10 +169,29 @@ func (c *Client) GetUsage(siteID string, args ...DateQueryArgument) ([]schema.Us
 
 	uri += "?" + query.Encode()
 
-	var res []schema.Usage
-	if err := c.get(uri, &res); err != nil {
+	var usage []Usage
+	if err := c.get(uri, &usage); err != nil {
 		return nil, err
 	}
+
+	if len(usage) == 0 {
+		return nil, nil
+	}
+
+	res := make(map[ChannelType][]Usage)
+
+	start := 0
+	currentType := usage[0].ChannelType
+
+	for i, item := range usage[1:] {
+		if item.ChannelType != currentType {
+			res[currentType] = usage[start : i+1]
+			start = i + 1
+			currentType = item.ChannelType
+		}
+	}
+
+	res[currentType] = usage[start:]
 
 	return res, nil
 }

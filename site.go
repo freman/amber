@@ -1,9 +1,9 @@
-// Copyright 2023 Shannon Wynter
+// Copyright 2025 Shannon Wynter
 //
 // This software may be modified and distributed under the terms
 // of the MIT license.  See the LICENSE file for details.
 
-package schema
+package amber
 
 type Site struct {
 	ID             string         `json:"id"`                       // Unique Site Identifier.
