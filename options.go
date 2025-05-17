@@ -14,3 +14,9 @@ func WithHTTPClient(client *http.Client) Option {
 		c.httpClient = client
 	}
 }
+
+func WithBaseURL(uri string) Option {
+	return func(c *Client) {
+		c.baseURL = uri
+	}
+}

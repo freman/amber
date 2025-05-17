@@ -10,7 +10,7 @@ type Descriptor string
 const (
 	DescriptorNegative     Descriptor = "negative"
 	DescriptorExtremelyLow Descriptor = "extremelyLow"
-	DescriptorBeryLow      Descriptor = "veryLow"
+	DescriptorVeryLow      Descriptor = "veryLow"
 	DescriptorLow          Descriptor = "low"
 	DescriptorNeutral      Descriptor = "neutral"
 	DescriptorHigh         Descriptor = "high"

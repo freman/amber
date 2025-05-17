@@ -1,0 +1,7292 @@
+[
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:00:01Z",
+    "endTime": "2025-05-16T14:05:00Z",
+    "nemTime": "2025-05-17T00:05:00+10:00",
+    "perKwh": 28.04696,
+    "renewables": 0.643766639598742,
+    "spotPerKwh": 17.9245,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:05:01Z",
+    "endTime": "2025-05-16T14:10:00Z",
+    "nemTime": "2025-05-17T00:10:00+10:00",
+    "perKwh": 26.33355,
+    "renewables": 0.9853419672391615,
+    "spotPerKwh": 16.32503,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:10:01Z",
+    "endTime": "2025-05-16T14:15:00Z",
+    "nemTime": "2025-05-17T00:15:00+10:00",
+    "perKwh": 26.59736,
+    "renewables": 1.4271864741968465,
+    "spotPerKwh": 16.5713,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:15:01Z",
+    "endTime": "2025-05-16T14:20:00Z",
+    "nemTime": "2025-05-17T00:20:00+10:00",
+    "perKwh": 26.25277,
+    "renewables": 1.6319032642218085,
+    "spotPerKwh": 16.24962,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:20:01Z",
+    "endTime": "2025-05-16T14:25:00Z",
+    "nemTime": "2025-05-17T00:25:00+10:00",
+    "perKwh": 25.78898,
+    "renewables": 1.7812705636410224,
+    "spotPerKwh": 15.81668,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:25:01Z",
+    "endTime": "2025-05-16T14:30:00Z",
+    "nemTime": "2025-05-17T00:30:00+10:00",
+    "perKwh": 24.49774,
+    "renewables": 1.8949421990022874,
+    "spotPerKwh": 14.61131,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:30:01Z",
+    "endTime": "2025-05-16T14:35:00Z",
+    "nemTime": "2025-05-17T00:35:00+10:00",
+    "perKwh": 24.40212,
+    "renewables": 2.1147958841235175,
+    "spotPerKwh": 14.52204,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:35:01Z",
+    "endTime": "2025-05-16T14:40:00Z",
+    "nemTime": "2025-05-17T00:40:00+10:00",
+    "perKwh": 24.97911,
+    "renewables": 2.424742360534793,
+    "spotPerKwh": 15.06066,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:40:01Z",
+    "endTime": "2025-05-16T14:45:00Z",
+    "nemTime": "2025-05-17T00:45:00+10:00",
+    "perKwh": 25.11333,
+    "renewables": 2.722352810201163,
+    "spotPerKwh": 15.18596,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:45:01Z",
+    "endTime": "2025-05-16T14:50:00Z",
+    "nemTime": "2025-05-17T00:50:00+10:00",
+    "perKwh": 24.09945,
+    "renewables": 3.1837195252157517,
+    "spotPerKwh": 14.2395,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:50:01Z",
+    "endTime": "2025-05-16T14:55:00Z",
+    "nemTime": "2025-05-17T00:55:00+10:00",
+    "perKwh": 24.49773,
+    "renewables": 3.721175195240573,
+    "spotPerKwh": 14.6113,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:55:01Z",
+    "endTime": "2025-05-16T15:00:00Z",
+    "nemTime": "2025-05-17T01:00:00+10:00",
+    "perKwh": 24.49773,
+    "renewables": 4.208609279598644,
+    "spotPerKwh": 14.6113,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:00:01Z",
+    "endTime": "2025-05-16T15:05:00Z",
+    "nemTime": "2025-05-17T01:05:00+10:00",
+    "perKwh": 24.36895,
+    "renewables": 4.633258998407854,
+    "spotPerKwh": 14.49108,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:05:01Z",
+    "endTime": "2025-05-16T15:10:00Z",
+    "nemTime": "2025-05-17T01:10:00+10:00",
+    "perKwh": 24.09945,
+    "renewables": 5.2547936158889685,
+    "spotPerKwh": 14.2395,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:10:01Z",
+    "endTime": "2025-05-16T15:15:00Z",
+    "nemTime": "2025-05-17T01:15:00+10:00",
+    "perKwh": 23.60948,
+    "renewables": 5.440871873108294,
+    "spotPerKwh": 13.78212,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:15:01Z",
+    "endTime": "2025-05-16T15:20:00Z",
+    "nemTime": "2025-05-17T01:20:00+10:00",
+    "perKwh": 22.25886,
+    "renewables": 5.492743994737438,
+    "spotPerKwh": 12.52131,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:20:01Z",
+    "endTime": "2025-05-16T15:25:00Z",
+    "nemTime": "2025-05-17T01:25:00+10:00",
+    "perKwh": 22.39048,
+    "renewables": 5.351719183935056,
+    "spotPerKwh": 12.64418,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:25:01Z",
+    "endTime": "2025-05-16T15:30:00Z",
+    "nemTime": "2025-05-17T01:30:00+10:00",
+    "perKwh": 22.25886,
+    "renewables": 4.640515538518708,
+    "spotPerKwh": 12.52131,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:30:01Z",
+    "endTime": "2025-05-16T15:35:00Z",
+    "nemTime": "2025-05-17T01:35:00+10:00",
+    "perKwh": 22.25886,
+    "renewables": 4.367647561896888,
+    "spotPerKwh": 12.52131,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:35:01Z",
+    "endTime": "2025-05-16T15:40:00Z",
+    "nemTime": "2025-05-17T01:40:00+10:00",
+    "perKwh": 22.47095,
+    "renewables": 4.194219183296662,
+    "spotPerKwh": 12.7193,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:40:01Z",
+    "endTime": "2025-05-16T15:45:00Z",
+    "nemTime": "2025-05-17T01:45:00+10:00",
+    "perKwh": 22.28282,
+    "renewables": 4.14643972686337,
+    "spotPerKwh": 12.54368,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:45:01Z",
+    "endTime": "2025-05-16T15:50:00Z",
+    "nemTime": "2025-05-17T01:50:00+10:00",
+    "perKwh": 24.00553,
+    "renewables": 3.9475475979209307,
+    "spotPerKwh": 14.15183,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:50:01Z",
+    "endTime": "2025-05-16T15:55:00Z",
+    "nemTime": "2025-05-17T01:55:00+10:00",
+    "perKwh": 22.47095,
+    "renewables": 4.114959156558765,
+    "spotPerKwh": 12.7193,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:55:01Z",
+    "endTime": "2025-05-16T16:00:00Z",
+    "nemTime": "2025-05-17T02:00:00+10:00",
+    "perKwh": 23.88808,
+    "renewables": 3.67631573277023,
+    "spotPerKwh": 14.04219,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:00:01Z",
+    "endTime": "2025-05-16T16:05:00Z",
+    "nemTime": "2025-05-17T02:05:00+10:00",
+    "perKwh": 24.09945,
+    "renewables": 3.226239955967395,
+    "spotPerKwh": 14.2395,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:05:01Z",
+    "endTime": "2025-05-16T16:10:00Z",
+    "nemTime": "2025-05-17T02:10:00+10:00",
+    "perKwh": 24.09945,
+    "renewables": 3.2797111811925572,
+    "spotPerKwh": 14.2395,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:10:01Z",
+    "endTime": "2025-05-16T16:15:00Z",
+    "nemTime": "2025-05-17T02:15:00+10:00",
+    "perKwh": 24.23077,
+    "renewables": 3.344700505745135,
+    "spotPerKwh": 14.36209,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:15:01Z",
+    "endTime": "2025-05-16T16:20:00Z",
+    "nemTime": "2025-05-17T02:20:00+10:00",
+    "perKwh": 24.09945,
+    "renewables": 3.43708621032974,
+    "spotPerKwh": 14.2395,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:20:01Z",
+    "endTime": "2025-05-16T16:25:00Z",
+    "nemTime": "2025-05-17T02:25:00+10:00",
+    "perKwh": 24.57516,
+    "renewables": 3.575488444741267,
+    "spotPerKwh": 14.68358,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:25:01Z",
+    "endTime": "2025-05-16T16:30:00Z",
+    "nemTime": "2025-05-17T02:30:00+10:00",
+    "perKwh": 23.18536,
+    "renewables": 3.520169826917731,
+    "spotPerKwh": 13.3862,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:30:01Z",
+    "endTime": "2025-05-16T16:35:00Z",
+    "nemTime": "2025-05-17T02:35:00+10:00",
+    "perKwh": 24.95525,
+    "renewables": 3.353263005780347,
+    "spotPerKwh": 15.03839,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:35:01Z",
+    "endTime": "2025-05-16T16:40:00Z",
+    "nemTime": "2025-05-17T02:40:00+10:00",
+    "perKwh": 24.98393,
+    "renewables": 3.6563877857173916,
+    "spotPerKwh": 15.06516,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:40:01Z",
+    "endTime": "2025-05-16T16:45:00Z",
+    "nemTime": "2025-05-17T02:45:00+10:00",
+    "perKwh": 25.10163,
+    "renewables": 3.679757310335044,
+    "spotPerKwh": 15.17504,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:45:01Z",
+    "endTime": "2025-05-16T16:50:00Z",
+    "nemTime": "2025-05-17T02:50:00+10:00",
+    "perKwh": 24.99996,
+    "renewables": 3.903905303383353,
+    "spotPerKwh": 15.08013,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:50:01Z",
+    "endTime": "2025-05-16T16:55:00Z",
+    "nemTime": "2025-05-17T02:55:00+10:00",
+    "perKwh": 25.11893,
+    "renewables": 3.8304913347544245,
+    "spotPerKwh": 15.19119,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:55:01Z",
+    "endTime": "2025-05-16T17:00:00Z",
+    "nemTime": "2025-05-17T03:00:00+10:00",
+    "perKwh": 24.73013,
+    "renewables": 3.75449898028552,
+    "spotPerKwh": 14.82824,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:00:01Z",
+    "endTime": "2025-05-16T17:05:00Z",
+    "nemTime": "2025-05-17T03:05:00+10:00",
+    "perKwh": 26.56022,
+    "renewables": 3.9089741653632486,
+    "spotPerKwh": 16.53663,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:05:01Z",
+    "endTime": "2025-05-16T17:10:00Z",
+    "nemTime": "2025-05-17T03:10:00+10:00",
+    "perKwh": 24.82428,
+    "renewables": 3.890870701089705,
+    "spotPerKwh": 14.91613,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:10:01Z",
+    "endTime": "2025-05-16T17:15:00Z",
+    "nemTime": "2025-05-17T03:15:00+10:00",
+    "perKwh": 25.42007,
+    "renewables": 3.6206179633039888,
+    "spotPerKwh": 15.4723,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:15:01Z",
+    "endTime": "2025-05-16T17:20:00Z",
+    "nemTime": "2025-05-17T03:20:00+10:00",
+    "perKwh": 26.44064,
+    "renewables": 3.716009611760618,
+    "spotPerKwh": 16.425,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:20:01Z",
+    "endTime": "2025-05-16T17:25:00Z",
+    "nemTime": "2025-05-17T03:25:00+10:00",
+    "perKwh": 25.46261,
+    "renewables": 3.4646753355490922,
+    "spotPerKwh": 15.51201,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:25:01Z",
+    "endTime": "2025-05-16T17:30:00Z",
+    "nemTime": "2025-05-17T03:30:00+10:00",
+    "perKwh": 25.43691,
+    "renewables": 2.9457318453293615,
+    "spotPerKwh": 15.48802,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:30:01Z",
+    "endTime": "2025-05-16T17:35:00Z",
+    "nemTime": "2025-05-17T03:35:00+10:00",
+    "perKwh": 25.3816,
+    "renewables": 2.63047020336018,
+    "spotPerKwh": 15.43639,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:35:01Z",
+    "endTime": "2025-05-16T17:40:00Z",
+    "nemTime": "2025-05-17T03:40:00+10:00",
+    "perKwh": 25.78344,
+    "renewables": 2.4387778200992494,
+    "spotPerKwh": 15.8115,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:40:01Z",
+    "endTime": "2025-05-16T17:45:00Z",
+    "nemTime": "2025-05-17T03:45:00+10:00",
+    "perKwh": 25.37845,
+    "renewables": 2.367525566817939,
+    "spotPerKwh": 15.43345,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:45:01Z",
+    "endTime": "2025-05-16T17:50:00Z",
+    "nemTime": "2025-05-17T03:50:00+10:00",
+    "perKwh": 25.7539,
+    "renewables": 2.4138225809942218,
+    "spotPerKwh": 15.78393,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:50:01Z",
+    "endTime": "2025-05-16T17:55:00Z",
+    "nemTime": "2025-05-17T03:55:00+10:00",
+    "perKwh": 25.23526,
+    "renewables": 2.5236563365284144,
+    "spotPerKwh": 15.29978,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:55:01Z",
+    "endTime": "2025-05-16T18:00:00Z",
+    "nemTime": "2025-05-17T04:00:00+10:00",
+    "perKwh": 25.38096,
+    "renewables": 2.67279119524224,
+    "spotPerKwh": 15.43579,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:00:01Z",
+    "endTime": "2025-05-16T18:05:00Z",
+    "nemTime": "2025-05-17T04:05:00+10:00",
+    "perKwh": 25.41349,
+    "renewables": 2.7138447630584537,
+    "spotPerKwh": 15.46616,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:05:01Z",
+    "endTime": "2025-05-16T18:10:00Z",
+    "nemTime": "2025-05-17T04:10:00+10:00",
+    "perKwh": 27.19029,
+    "renewables": 2.73430939972457,
+    "spotPerKwh": 17.1248,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:10:01Z",
+    "endTime": "2025-05-16T18:15:00Z",
+    "nemTime": "2025-05-17T04:15:00+10:00",
+    "perKwh": 28.04696,
+    "renewables": 2.5552666915796944,
+    "spotPerKwh": 17.9245,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:15:01Z",
+    "endTime": "2025-05-16T18:20:00Z",
+    "nemTime": "2025-05-17T04:20:00+10:00",
+    "perKwh": 26.80783,
+    "renewables": 2.391117563682896,
+    "spotPerKwh": 16.76777,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:20:01Z",
+    "endTime": "2025-05-16T18:25:00Z",
+    "nemTime": "2025-05-17T04:25:00+10:00",
+    "perKwh": 27.65687,
+    "renewables": 2.2380414362824292,
+    "spotPerKwh": 17.56035,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:25:01Z",
+    "endTime": "2025-05-16T18:30:00Z",
+    "nemTime": "2025-05-17T04:30:00+10:00",
+    "perKwh": 26.03346,
+    "renewables": 2.166963682930227,
+    "spotPerKwh": 16.0449,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:30:01Z",
+    "endTime": "2025-05-16T18:35:00Z",
+    "nemTime": "2025-05-17T04:35:00+10:00",
+    "perKwh": 25.4707,
+    "renewables": 2.063362872799782,
+    "spotPerKwh": 15.51956,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:35:01Z",
+    "endTime": "2025-05-16T18:40:00Z",
+    "nemTime": "2025-05-17T04:40:00+10:00",
+    "perKwh": 32.69341,
+    "renewables": 2.262092307141451,
+    "spotPerKwh": 22.26195,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:40:01Z",
+    "endTime": "2025-05-16T18:45:00Z",
+    "nemTime": "2025-05-17T04:45:00+10:00",
+    "perKwh": 26.01529,
+    "renewables": 2.2011284747227426,
+    "spotPerKwh": 16.02794,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:45:01Z",
+    "endTime": "2025-05-16T18:50:00Z",
+    "nemTime": "2025-05-17T04:50:00+10:00",
+    "perKwh": 26.01078,
+    "renewables": 2.124864605618395,
+    "spotPerKwh": 16.02373,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:50:01Z",
+    "endTime": "2025-05-16T18:55:00Z",
+    "nemTime": "2025-05-17T04:55:00+10:00",
+    "perKwh": 26.45343,
+    "renewables": 2.0414108908676,
+    "spotPerKwh": 16.43694,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:55:01Z",
+    "endTime": "2025-05-16T19:00:00Z",
+    "nemTime": "2025-05-17T05:00:00+10:00",
+    "perKwh": 26.69808,
+    "renewables": 2.064871370865492,
+    "spotPerKwh": 16.66532,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:00:01Z",
+    "endTime": "2025-05-16T19:05:00Z",
+    "nemTime": "2025-05-17T05:05:00+10:00",
+    "perKwh": 26.34991,
+    "renewables": 1.974011987598051,
+    "spotPerKwh": 16.3403,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:05:01Z",
+    "endTime": "2025-05-16T19:10:00Z",
+    "nemTime": "2025-05-17T05:10:00+10:00",
+    "perKwh": 27.51486,
+    "renewables": 1.7173239082024876,
+    "spotPerKwh": 17.42778,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:10:01Z",
+    "endTime": "2025-05-16T19:15:00Z",
+    "nemTime": "2025-05-17T05:15:00+10:00",
+    "perKwh": 27.40587,
+    "renewables": 1.3813006434593516,
+    "spotPerKwh": 17.32604,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:15:01Z",
+    "endTime": "2025-05-16T19:20:00Z",
+    "nemTime": "2025-05-17T05:20:00+10:00",
+    "perKwh": 27.86187,
+    "renewables": 1.0646478848330503,
+    "spotPerKwh": 17.75172,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:20:01Z",
+    "endTime": "2025-05-16T19:25:00Z",
+    "nemTime": "2025-05-17T05:25:00+10:00",
+    "perKwh": 28.18087,
+    "renewables": 0.8936915324061283,
+    "spotPerKwh": 18.0495,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:25:01Z",
+    "endTime": "2025-05-16T19:30:00Z",
+    "nemTime": "2025-05-17T05:30:00+10:00",
+    "perKwh": 27.36824,
+    "renewables": 0.7925805349464222,
+    "spotPerKwh": 17.29091,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:30:01Z",
+    "endTime": "2025-05-16T19:35:00Z",
+    "nemTime": "2025-05-17T05:35:00+10:00",
+    "perKwh": 26.73157,
+    "renewables": 0.8230036769166653,
+    "spotPerKwh": 16.69658,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:35:01Z",
+    "endTime": "2025-05-16T19:40:00Z",
+    "nemTime": "2025-05-17T05:40:00+10:00",
+    "perKwh": 26.2807,
+    "renewables": 0.6980018323034748,
+    "spotPerKwh": 16.2757,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:40:01Z",
+    "endTime": "2025-05-16T19:45:00Z",
+    "nemTime": "2025-05-17T05:45:00+10:00",
+    "perKwh": 26.96062,
+    "renewables": 0.7197659204903195,
+    "spotPerKwh": 16.9104,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:45:01Z",
+    "endTime": "2025-05-16T19:50:00Z",
+    "nemTime": "2025-05-17T05:50:00+10:00",
+    "perKwh": 26.89387,
+    "renewables": 0.7855676292771893,
+    "spotPerKwh": 16.84809,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:50:01Z",
+    "endTime": "2025-05-16T19:55:00Z",
+    "nemTime": "2025-05-17T05:55:00+10:00",
+    "perKwh": 26.99963,
+    "renewables": 0.8437873875440045,
+    "spotPerKwh": 16.94682,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:55:01Z",
+    "endTime": "2025-05-16T20:00:00Z",
+    "nemTime": "2025-05-17T06:00:00+10:00",
+    "perKwh": 26.82976,
+    "renewables": 0.9686146910698504,
+    "spotPerKwh": 16.78824,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:00:01Z",
+    "endTime": "2025-05-16T20:05:00Z",
+    "nemTime": "2025-05-17T06:05:00+10:00",
+    "perKwh": 27.23527,
+    "renewables": 0.9320397485408536,
+    "spotPerKwh": 17.16679,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:05:01Z",
+    "endTime": "2025-05-16T20:10:00Z",
+    "nemTime": "2025-05-17T06:10:00+10:00",
+    "perKwh": 26.6067,
+    "renewables": 1.0285964879059815,
+    "spotPerKwh": 16.58002,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:10:01Z",
+    "endTime": "2025-05-16T20:15:00Z",
+    "nemTime": "2025-05-17T06:15:00+10:00",
+    "perKwh": 28.02686,
+    "renewables": 1.1486204118066925,
+    "spotPerKwh": 17.90573,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:15:01Z",
+    "endTime": "2025-05-16T20:20:00Z",
+    "nemTime": "2025-05-17T06:20:00+10:00",
+    "perKwh": 35.45887,
+    "renewables": 1.1212161254575372,
+    "spotPerKwh": 24.8435,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:20:01Z",
+    "endTime": "2025-05-16T20:25:00Z",
+    "nemTime": "2025-05-17T06:25:00+10:00",
+    "perKwh": 26.52674,
+    "renewables": 1.2198808993111339,
+    "spotPerKwh": 16.50537,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:25:01Z",
+    "endTime": "2025-05-16T20:30:00Z",
+    "nemTime": "2025-05-17T06:30:00+10:00",
+    "perKwh": 26.05829,
+    "renewables": 1.2511724380027207,
+    "spotPerKwh": 16.06808,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:30:01Z",
+    "endTime": "2025-05-16T20:35:00Z",
+    "nemTime": "2025-05-17T06:35:00+10:00",
+    "perKwh": 25.64977,
+    "renewables": 1.984719863328554,
+    "spotPerKwh": 15.68672,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:35:01Z",
+    "endTime": "2025-05-16T20:40:00Z",
+    "nemTime": "2025-05-17T06:40:00+10:00",
+    "perKwh": 25.27144,
+    "renewables": 2.1355307145194398,
+    "spotPerKwh": 15.33355,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:40:01Z",
+    "endTime": "2025-05-16T20:45:00Z",
+    "nemTime": "2025-05-17T06:45:00+10:00",
+    "perKwh": 25.38245,
+    "renewables": 2.3032361055590003,
+    "spotPerKwh": 15.43718,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:45:01Z",
+    "endTime": "2025-05-16T20:50:00Z",
+    "nemTime": "2025-05-17T06:50:00+10:00",
+    "perKwh": 25.30483,
+    "renewables": 2.4386234909384057,
+    "spotPerKwh": 15.36472,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:50:01Z",
+    "endTime": "2025-05-16T20:55:00Z",
+    "nemTime": "2025-05-17T06:55:00+10:00",
+    "perKwh": 25.70215,
+    "renewables": 2.791758340644566,
+    "spotPerKwh": 15.73562,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:55:01Z",
+    "endTime": "2025-05-16T21:00:00Z",
+    "nemTime": "2025-05-17T07:00:00+10:00",
+    "perKwh": 25.71181,
+    "renewables": 3.3867742156096683,
+    "spotPerKwh": 15.74464,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:00:01Z",
+    "endTime": "2025-05-16T21:05:00Z",
+    "nemTime": "2025-05-17T07:05:00+10:00",
+    "perKwh": 30.20819,
+    "renewables": 6.58100748102063,
+    "spotPerKwh": 19.942,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:05:01Z",
+    "endTime": "2025-05-16T21:10:00Z",
+    "nemTime": "2025-05-17T07:10:00+10:00",
+    "perKwh": 27.23674,
+    "renewables": 7.5339272833809385,
+    "spotPerKwh": 17.16816,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:10:01Z",
+    "endTime": "2025-05-16T21:15:00Z",
+    "nemTime": "2025-05-17T07:15:00+10:00",
+    "perKwh": 35.60673,
+    "renewables": 7.936065678173347,
+    "spotPerKwh": 24.98153,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:15:01Z",
+    "endTime": "2025-05-16T21:20:00Z",
+    "nemTime": "2025-05-17T07:20:00+10:00",
+    "perKwh": 29.97368,
+    "renewables": 8.403490480529449,
+    "spotPerKwh": 19.72309,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:20:01Z",
+    "endTime": "2025-05-16T21:25:00Z",
+    "nemTime": "2025-05-17T07:25:00+10:00",
+    "perKwh": 25.86728,
+    "renewables": 9.763276525057071,
+    "spotPerKwh": 15.88977,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:25:01Z",
+    "endTime": "2025-05-16T21:30:00Z",
+    "nemTime": "2025-05-17T07:30:00+10:00",
+    "perKwh": 24.59031,
+    "renewables": 10.718603808560433,
+    "spotPerKwh": 14.69772,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:30:01Z",
+    "endTime": "2025-05-16T21:35:00Z",
+    "nemTime": "2025-05-17T07:35:00+10:00",
+    "perKwh": 24.18782,
+    "renewables": 14.948444511502032,
+    "spotPerKwh": 14.322,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:35:01Z",
+    "endTime": "2025-05-16T21:40:00Z",
+    "nemTime": "2025-05-17T07:40:00+10:00",
+    "perKwh": 22.89061,
+    "renewables": 16.188007163648088,
+    "spotPerKwh": 13.11105,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:40:01Z",
+    "endTime": "2025-05-16T21:45:00Z",
+    "nemTime": "2025-05-17T07:45:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 18.238323798302673,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:45:01Z",
+    "endTime": "2025-05-16T21:50:00Z",
+    "nemTime": "2025-05-17T07:50:00+10:00",
+    "perKwh": 20.34065,
+    "renewables": 20.307800533218337,
+    "spotPerKwh": 10.73067,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:50:01Z",
+    "endTime": "2025-05-16T21:55:00Z",
+    "nemTime": "2025-05-17T07:55:00+10:00",
+    "perKwh": 20.53726,
+    "renewables": 19.611791095331576,
+    "spotPerKwh": 10.9142,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:55:01Z",
+    "endTime": "2025-05-16T22:00:00Z",
+    "nemTime": "2025-05-17T08:00:00+10:00",
+    "perKwh": 20.53726,
+    "renewables": 20.59710827462336,
+    "spotPerKwh": 10.9142,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:00:01Z",
+    "endTime": "2025-05-16T22:05:00Z",
+    "nemTime": "2025-05-17T08:05:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 22.826554653479818,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:05:01Z",
+    "endTime": "2025-05-16T22:10:00Z",
+    "nemTime": "2025-05-17T08:10:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 22.892077549869835,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:10:01Z",
+    "endTime": "2025-05-16T22:15:00Z",
+    "nemTime": "2025-05-17T08:15:00+10:00",
+    "perKwh": 21.05145,
+    "renewables": 22.88829155014318,
+    "spotPerKwh": 11.3942,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:15:01Z",
+    "endTime": "2025-05-16T22:20:00Z",
+    "nemTime": "2025-05-17T08:20:00+10:00",
+    "perKwh": 20.72855,
+    "renewables": 23.847981315199466,
+    "spotPerKwh": 11.09277,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:20:01Z",
+    "endTime": "2025-05-16T22:25:00Z",
+    "nemTime": "2025-05-17T08:25:00+10:00",
+    "perKwh": 20.53726,
+    "renewables": 24.084519589214707,
+    "spotPerKwh": 10.9142,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:25:01Z",
+    "endTime": "2025-05-16T22:30:00Z",
+    "nemTime": "2025-05-17T08:30:00+10:00",
+    "perKwh": 20.53726,
+    "renewables": 24.438796767966085,
+    "spotPerKwh": 10.9142,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:30:01Z",
+    "endTime": "2025-05-16T22:35:00Z",
+    "nemTime": "2025-05-17T08:35:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 28.21293626082555,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:35:01Z",
+    "endTime": "2025-05-16T22:40:00Z",
+    "nemTime": "2025-05-17T08:40:00+10:00",
+    "perKwh": 21.39864,
+    "renewables": 28.60161817432667,
+    "spotPerKwh": 11.7183,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:40:01Z",
+    "endTime": "2025-05-16T22:45:00Z",
+    "nemTime": "2025-05-17T08:45:00+10:00",
+    "perKwh": 20.69329,
+    "renewables": 29.290872861627708,
+    "spotPerKwh": 11.05986,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:45:01Z",
+    "endTime": "2025-05-16T22:50:00Z",
+    "nemTime": "2025-05-17T08:50:00+10:00",
+    "perKwh": 19.17242,
+    "renewables": 31.675034596047446,
+    "spotPerKwh": 9.64013,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:50:01Z",
+    "endTime": "2025-05-16T22:55:00Z",
+    "nemTime": "2025-05-17T08:55:00+10:00",
+    "perKwh": 18.55131,
+    "renewables": 32.31724528311723,
+    "spotPerKwh": 9.06032,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:55:01Z",
+    "endTime": "2025-05-16T23:00:00Z",
+    "nemTime": "2025-05-17T09:00:00+10:00",
+    "perKwh": 17.98139,
+    "renewables": 33.18028426349724,
+    "spotPerKwh": 8.5283,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:00:01Z",
+    "endTime": "2025-05-16T23:05:00Z",
+    "nemTime": "2025-05-17T09:05:00+10:00",
+    "perKwh": 20.72696,
+    "renewables": 36.99724197151034,
+    "spotPerKwh": 11.09129,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:05:01Z",
+    "endTime": "2025-05-16T23:10:00Z",
+    "nemTime": "2025-05-17T09:10:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 37.8699231283996,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:10:01Z",
+    "endTime": "2025-05-16T23:15:00Z",
+    "nemTime": "2025-05-17T09:15:00+10:00",
+    "perKwh": 20.25562,
+    "renewables": 39.030349093663034,
+    "spotPerKwh": 10.65129,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:15:01Z",
+    "endTime": "2025-05-16T23:20:00Z",
+    "nemTime": "2025-05-17T09:20:00+10:00",
+    "perKwh": 20.03999,
+    "renewables": 39.731098285653886,
+    "spotPerKwh": 10.45,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:20:01Z",
+    "endTime": "2025-05-16T23:25:00Z",
+    "nemTime": "2025-05-17T09:25:00+10:00",
+    "perKwh": 17.78107,
+    "renewables": 39.89062751211253,
+    "spotPerKwh": 8.3413,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:25:01Z",
+    "endTime": "2025-05-16T23:30:00Z",
+    "nemTime": "2025-05-17T09:30:00+10:00",
+    "perKwh": 17.78107,
+    "renewables": 40.59879879604703,
+    "spotPerKwh": 8.3413,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:30:01Z",
+    "endTime": "2025-05-16T23:35:00Z",
+    "nemTime": "2025-05-17T09:35:00+10:00",
+    "perKwh": 17.58246,
+    "renewables": 44.76701656502615,
+    "spotPerKwh": 8.1559,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:35:01Z",
+    "endTime": "2025-05-16T23:40:00Z",
+    "nemTime": "2025-05-17T09:40:00+10:00",
+    "perKwh": 17.53435,
+    "renewables": 45.39597576961804,
+    "spotPerKwh": 8.11099,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:40:01Z",
+    "endTime": "2025-05-16T23:45:00Z",
+    "nemTime": "2025-05-17T09:45:00+10:00",
+    "perKwh": 16.11791,
+    "renewables": 46.60590227803144,
+    "spotPerKwh": 6.78875,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:45:01Z",
+    "endTime": "2025-05-16T23:50:00Z",
+    "nemTime": "2025-05-17T09:50:00+10:00",
+    "perKwh": 15.47739,
+    "renewables": 47.271391492473356,
+    "spotPerKwh": 6.19082,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:50:01Z",
+    "endTime": "2025-05-16T23:55:00Z",
+    "nemTime": "2025-05-17T09:55:00+10:00",
+    "perKwh": 17.51428,
+    "renewables": 47.00435733605177,
+    "spotPerKwh": 8.09226,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:55:01Z",
+    "endTime": "2025-05-17T00:00:00Z",
+    "nemTime": "2025-05-17T10:00:00+10:00",
+    "perKwh": 16.24394,
+    "renewables": 46.326295009326934,
+    "spotPerKwh": 6.9064,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:00:01Z",
+    "endTime": "2025-05-17T00:05:00Z",
+    "nemTime": "2025-05-17T10:05:00+10:00",
+    "perKwh": 16.09885,
+    "renewables": 47.77874582998937,
+    "spotPerKwh": 6.77095,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:05:01Z",
+    "endTime": "2025-05-17T00:10:00Z",
+    "nemTime": "2025-05-17T10:10:00+10:00",
+    "perKwh": 19.95037,
+    "renewables": 46.224789214623726,
+    "spotPerKwh": 10.36634,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:10:01Z",
+    "endTime": "2025-05-17T00:15:00Z",
+    "nemTime": "2025-05-17T10:15:00+10:00",
+    "perKwh": 17.7859,
+    "renewables": 47.57727299246943,
+    "spotPerKwh": 8.34581,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:15:01Z",
+    "endTime": "2025-05-17T00:20:00Z",
+    "nemTime": "2025-05-17T10:20:00+10:00",
+    "perKwh": 15.29826,
+    "renewables": 48.443671673057864,
+    "spotPerKwh": 6.0236,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:20:01Z",
+    "endTime": "2025-05-17T00:25:00Z",
+    "nemTime": "2025-05-17T10:25:00+10:00",
+    "perKwh": 16.13319,
+    "renewables": 48.021350724878545,
+    "spotPerKwh": 6.80301,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:25:01Z",
+    "endTime": "2025-05-17T00:30:00Z",
+    "nemTime": "2025-05-17T10:30:00+10:00",
+    "perKwh": 15.29826,
+    "renewables": 48.751935904878174,
+    "spotPerKwh": 6.0236,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:30:01Z",
+    "endTime": "2025-05-17T00:35:00Z",
+    "nemTime": "2025-05-17T10:35:00+10:00",
+    "perKwh": 13.55899,
+    "renewables": 51.39757942122554,
+    "spotPerKwh": 4.4,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:35:01Z",
+    "endTime": "2025-05-17T00:40:00Z",
+    "nemTime": "2025-05-17T10:40:00+10:00",
+    "perKwh": 16.23306,
+    "renewables": 51.129502498255775,
+    "spotPerKwh": 6.89624,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:40:01Z",
+    "endTime": "2025-05-17T00:45:00Z",
+    "nemTime": "2025-05-17T10:45:00+10:00",
+    "perKwh": 15.29826,
+    "renewables": 51.475339077834306,
+    "spotPerKwh": 6.0236,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:45:01Z",
+    "endTime": "2025-05-17T00:50:00Z",
+    "nemTime": "2025-05-17T10:50:00+10:00",
+    "perKwh": 15.21297,
+    "renewables": 52.75333108723726,
+    "spotPerKwh": 5.94399,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:50:01Z",
+    "endTime": "2025-05-17T00:55:00Z",
+    "nemTime": "2025-05-17T10:55:00+10:00",
+    "perKwh": 14.79206,
+    "renewables": 53.868317741704665,
+    "spotPerKwh": 5.55107,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:55:01Z",
+    "endTime": "2025-05-17T01:00:00Z",
+    "nemTime": "2025-05-17T11:00:00+10:00",
+    "perKwh": 14.85875,
+    "renewables": 53.82134179819301,
+    "spotPerKwh": 5.61332,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:00:01Z",
+    "endTime": "2025-05-17T01:05:00Z",
+    "nemTime": "2025-05-17T11:05:00+10:00",
+    "perKwh": 11.10877,
+    "renewables": 56.315554776640596,
+    "spotPerKwh": 2.11272,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:05:01Z",
+    "endTime": "2025-05-17T01:10:00Z",
+    "nemTime": "2025-05-17T11:10:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 55.47372308436955,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:10:01Z",
+    "endTime": "2025-05-17T01:15:00Z",
+    "nemTime": "2025-05-17T11:15:00+10:00",
+    "perKwh": 15.12013,
+    "renewables": 55.243384816279864,
+    "spotPerKwh": 5.85732,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:15:01Z",
+    "endTime": "2025-05-17T01:20:00Z",
+    "nemTime": "2025-05-17T11:20:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 55.44959996124257,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:20:01Z",
+    "endTime": "2025-05-17T01:25:00Z",
+    "nemTime": "2025-05-17T11:25:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 53.790118549446916,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:25:01Z",
+    "endTime": "2025-05-17T01:30:00Z",
+    "nemTime": "2025-05-17T11:30:00+10:00",
+    "perKwh": 12.02388,
+    "renewables": 56.65264254950028,
+    "spotPerKwh": 2.96698,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:30:01Z",
+    "endTime": "2025-05-17T01:35:00Z",
+    "nemTime": "2025-05-17T11:35:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 57.872803370111384,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:35:01Z",
+    "endTime": "2025-05-17T01:40:00Z",
+    "nemTime": "2025-05-17T11:40:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 58.074375943733216,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:40:01Z",
+    "endTime": "2025-05-17T01:45:00Z",
+    "nemTime": "2025-05-17T11:45:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 60.19368709101569,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:45:01Z",
+    "endTime": "2025-05-17T01:50:00Z",
+    "nemTime": "2025-05-17T11:50:00+10:00",
+    "perKwh": 11.65105,
+    "renewables": 60.98682018370223,
+    "spotPerKwh": 2.61894,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:50:01Z",
+    "endTime": "2025-05-17T01:55:00Z",
+    "nemTime": "2025-05-17T11:55:00+10:00",
+    "perKwh": 15.03103,
+    "renewables": 60.275540189463904,
+    "spotPerKwh": 5.77415,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:55:01Z",
+    "endTime": "2025-05-17T02:00:00Z",
+    "nemTime": "2025-05-17T12:00:00+10:00",
+    "perKwh": 14.82573,
+    "renewables": 61.34471597710353,
+    "spotPerKwh": 5.5825,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:00:01Z",
+    "endTime": "2025-05-17T02:05:00Z",
+    "nemTime": "2025-05-17T12:05:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 62.058937980664886,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:05:01Z",
+    "endTime": "2025-05-17T02:10:00Z",
+    "nemTime": "2025-05-17T12:10:00+10:00",
+    "perKwh": 14.57805,
+    "renewables": 60.5536563023723,
+    "spotPerKwh": 5.35129,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:10:01Z",
+    "endTime": "2025-05-17T02:15:00Z",
+    "nemTime": "2025-05-17T12:15:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 61.63870278236033,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:15:01Z",
+    "endTime": "2025-05-17T02:20:00Z",
+    "nemTime": "2025-05-17T12:20:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 62.07963576657928,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:20:01Z",
+    "endTime": "2025-05-17T02:25:00Z",
+    "nemTime": "2025-05-17T12:25:00+10:00",
+    "perKwh": 12.9396,
+    "renewables": 61.406954175684156,
+    "spotPerKwh": 3.8218,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:25:01Z",
+    "endTime": "2025-05-17T02:30:00Z",
+    "nemTime": "2025-05-17T12:30:00+10:00",
+    "perKwh": 9.91743,
+    "renewables": 61.9721252437023,
+    "spotPerKwh": 1.00061,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:30:01Z",
+    "endTime": "2025-05-17T02:35:00Z",
+    "nemTime": "2025-05-17T12:35:00+10:00",
+    "perKwh": 12.88143,
+    "renewables": 62.63057976763119,
+    "spotPerKwh": 3.7675,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:35:01Z",
+    "endTime": "2025-05-17T02:40:00Z",
+    "nemTime": "2025-05-17T12:40:00+10:00",
+    "perKwh": 11.25242,
+    "renewables": 64.0507559443773,
+    "spotPerKwh": 2.24682,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:40:01Z",
+    "endTime": "2025-05-17T02:45:00Z",
+    "nemTime": "2025-05-17T12:45:00+10:00",
+    "perKwh": 11.52396,
+    "renewables": 64.23427155815047,
+    "spotPerKwh": 2.5003,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:45:01Z",
+    "endTime": "2025-05-17T02:50:00Z",
+    "nemTime": "2025-05-17T12:50:00+10:00",
+    "perKwh": 11.04762,
+    "renewables": 65.50347277730931,
+    "spotPerKwh": 2.05564,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:50:01Z",
+    "endTime": "2025-05-17T02:55:00Z",
+    "nemTime": "2025-05-17T12:55:00+10:00",
+    "perKwh": 6.99006,
+    "renewables": 65.30287730009985,
+    "spotPerKwh": -1.73209,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "extremelyLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:55:01Z",
+    "endTime": "2025-05-17T03:00:00Z",
+    "nemTime": "2025-05-17T13:00:00+10:00",
+    "perKwh": 10.57213,
+    "renewables": 65.22767203040236,
+    "spotPerKwh": 1.61177,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:00:01Z",
+    "endTime": "2025-05-17T03:05:00Z",
+    "nemTime": "2025-05-17T13:05:00+10:00",
+    "perKwh": 11.05992,
+    "renewables": 64.40879386251285,
+    "spotPerKwh": 2.06712,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:05:01Z",
+    "endTime": "2025-05-17T03:10:00Z",
+    "nemTime": "2025-05-17T13:10:00+10:00",
+    "perKwh": 11.09831,
+    "renewables": 64.96671786558692,
+    "spotPerKwh": 2.10296,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:10:01Z",
+    "endTime": "2025-05-17T03:15:00Z",
+    "nemTime": "2025-05-17T13:15:00+10:00",
+    "perKwh": 11.11415,
+    "renewables": 63.69300284052777,
+    "spotPerKwh": 2.11774,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:15:01Z",
+    "endTime": "2025-05-17T03:20:00Z",
+    "nemTime": "2025-05-17T13:20:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 61.9848537481798,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:20:01Z",
+    "endTime": "2025-05-17T03:25:00Z",
+    "nemTime": "2025-05-17T13:25:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 63.29743291122987,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:25:01Z",
+    "endTime": "2025-05-17T03:30:00Z",
+    "nemTime": "2025-05-17T13:30:00+10:00",
+    "perKwh": 12.71421,
+    "renewables": 63.93897983790249,
+    "spotPerKwh": 3.6114,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:30:01Z",
+    "endTime": "2025-05-17T03:35:00Z",
+    "nemTime": "2025-05-17T13:35:00+10:00",
+    "perKwh": 12.94036,
+    "renewables": 61.2730519477386,
+    "spotPerKwh": 3.82251,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:35:01Z",
+    "endTime": "2025-05-17T03:40:00Z",
+    "nemTime": "2025-05-17T13:40:00+10:00",
+    "perKwh": 12.98637,
+    "renewables": 61.726446296626946,
+    "spotPerKwh": 3.86546,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:40:01Z",
+    "endTime": "2025-05-17T03:45:00Z",
+    "nemTime": "2025-05-17T13:45:00+10:00",
+    "perKwh": 11.66774,
+    "renewables": 63.96746518596837,
+    "spotPerKwh": 2.63452,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:45:01Z",
+    "endTime": "2025-05-17T03:50:00Z",
+    "nemTime": "2025-05-17T13:50:00+10:00",
+    "perKwh": 12.5807,
+    "renewables": 65.19048518264815,
+    "spotPerKwh": 3.48677,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:50:01Z",
+    "endTime": "2025-05-17T03:55:00Z",
+    "nemTime": "2025-05-17T13:55:00+10:00",
+    "perKwh": 14.06743,
+    "renewables": 63.41215924117326,
+    "spotPerKwh": 4.87463,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:55:01Z",
+    "endTime": "2025-05-17T04:00:00Z",
+    "nemTime": "2025-05-17T14:00:00+10:00",
+    "perKwh": 13.00431,
+    "renewables": 64.59665448484084,
+    "spotPerKwh": 3.88221,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:00:01Z",
+    "endTime": "2025-05-17T04:05:00Z",
+    "nemTime": "2025-05-17T14:05:00+10:00",
+    "perKwh": 11.21069,
+    "renewables": 61.99504130605177,
+    "spotPerKwh": 2.20786,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:05:01Z",
+    "endTime": "2025-05-17T04:10:00Z",
+    "nemTime": "2025-05-17T14:10:00+10:00",
+    "perKwh": 9.9041,
+    "renewables": 61.27071830092555,
+    "spotPerKwh": 0.98816,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:10:01Z",
+    "endTime": "2025-05-17T04:15:00Z",
+    "nemTime": "2025-05-17T14:15:00+10:00",
+    "perKwh": 11.37063,
+    "renewables": 60.82069173896534,
+    "spotPerKwh": 2.35717,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:15:01Z",
+    "endTime": "2025-05-17T04:20:00Z",
+    "nemTime": "2025-05-17T14:20:00+10:00",
+    "perKwh": 14.9834,
+    "renewables": 59.28329531420148,
+    "spotPerKwh": 5.72968,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:20:01Z",
+    "endTime": "2025-05-17T04:25:00Z",
+    "nemTime": "2025-05-17T14:25:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 60.046510432219854,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:25:01Z",
+    "endTime": "2025-05-17T04:30:00Z",
+    "nemTime": "2025-05-17T14:30:00+10:00",
+    "perKwh": 15.40077,
+    "renewables": 57.026022846646995,
+    "spotPerKwh": 6.1193,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:30:01Z",
+    "endTime": "2025-05-17T04:35:00Z",
+    "nemTime": "2025-05-17T14:35:00+10:00",
+    "perKwh": 14.40283,
+    "renewables": 54.43358504097083,
+    "spotPerKwh": 5.18772,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:35:01Z",
+    "endTime": "2025-05-17T04:40:00Z",
+    "nemTime": "2025-05-17T14:40:00+10:00",
+    "perKwh": 14.1411,
+    "renewables": 56.56631614932293,
+    "spotPerKwh": 4.9434,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:40:01Z",
+    "endTime": "2025-05-17T04:45:00Z",
+    "nemTime": "2025-05-17T14:45:00+10:00",
+    "perKwh": 15.10885,
+    "renewables": 55.99073050588599,
+    "spotPerKwh": 5.84679,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:45:01Z",
+    "endTime": "2025-05-17T04:50:00Z",
+    "nemTime": "2025-05-17T14:50:00+10:00",
+    "perKwh": 14.82573,
+    "renewables": 55.54544049680478,
+    "spotPerKwh": 5.5825,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:50:01Z",
+    "endTime": "2025-05-17T04:55:00Z",
+    "nemTime": "2025-05-17T14:55:00+10:00",
+    "perKwh": 14.82573,
+    "renewables": 57.61820809697979,
+    "spotPerKwh": 5.5825,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:55:01Z",
+    "endTime": "2025-05-17T05:00:00Z",
+    "nemTime": "2025-05-17T15:00:00+10:00",
+    "perKwh": 14.82573,
+    "renewables": 57.10703408743043,
+    "spotPerKwh": 5.5825,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:00:01Z",
+    "endTime": "2025-05-17T05:05:00Z",
+    "nemTime": "2025-05-17T15:05:00+10:00",
+    "perKwh": 13.94078,
+    "renewables": 52.5461852291552,
+    "spotPerKwh": 4.7564,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:05:01Z",
+    "endTime": "2025-05-17T05:10:00Z",
+    "nemTime": "2025-05-17T15:10:00+10:00",
+    "perKwh": 14.14111,
+    "renewables": 49.73482984024689,
+    "spotPerKwh": 4.94341,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:10:01Z",
+    "endTime": "2025-05-17T05:15:00Z",
+    "nemTime": "2025-05-17T15:15:00+10:00",
+    "perKwh": 14.14111,
+    "renewables": 50.56958151402631,
+    "spotPerKwh": 4.94341,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:15:01Z",
+    "endTime": "2025-05-17T05:20:00Z",
+    "nemTime": "2025-05-17T15:20:00+10:00",
+    "perKwh": 12.94035,
+    "renewables": 50.60249709794231,
+    "spotPerKwh": 3.8225,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:20:01Z",
+    "endTime": "2025-05-17T05:25:00Z",
+    "nemTime": "2025-05-17T15:25:00+10:00",
+    "perKwh": 14.90822,
+    "renewables": 48.851483415843084,
+    "spotPerKwh": 5.6595,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:25:01Z",
+    "endTime": "2025-05-17T05:30:00Z",
+    "nemTime": "2025-05-17T15:30:00+10:00",
+    "perKwh": 18.27126,
+    "renewables": 47.06257787326621,
+    "spotPerKwh": 8.7989,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:30:01Z",
+    "endTime": "2025-05-17T05:35:00Z",
+    "nemTime": "2025-05-17T15:35:00+10:00",
+    "perKwh": 15.40077,
+    "renewables": 41.96071440603985,
+    "spotPerKwh": 6.1193,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:35:01Z",
+    "endTime": "2025-05-17T05:40:00Z",
+    "nemTime": "2025-05-17T15:40:00+10:00",
+    "perKwh": 13.72044,
+    "renewables": 42.102002931701406,
+    "spotPerKwh": 4.55071,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:40:01Z",
+    "endTime": "2025-05-17T05:45:00Z",
+    "nemTime": "2025-05-17T15:45:00+10:00",
+    "perKwh": 15.29827,
+    "renewables": 38.16084541055014,
+    "spotPerKwh": 6.02361,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:45:01Z",
+    "endTime": "2025-05-17T05:50:00Z",
+    "nemTime": "2025-05-17T15:50:00+10:00",
+    "perKwh": 18.79681,
+    "renewables": 36.20521691363787,
+    "spotPerKwh": 9.2895,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:50:01Z",
+    "endTime": "2025-05-17T05:55:00Z",
+    "nemTime": "2025-05-17T15:55:00+10:00",
+    "perKwh": 20.53726,
+    "renewables": 34.144785127162635,
+    "spotPerKwh": 10.9142,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:55:01Z",
+    "endTime": "2025-05-17T06:00:00Z",
+    "nemTime": "2025-05-17T16:00:00+10:00",
+    "perKwh": 22.47095,
+    "renewables": 33.6515036114645,
+    "spotPerKwh": 12.7193,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:00:01Z",
+    "endTime": "2025-05-17T06:05:00Z",
+    "nemTime": "2025-05-17T16:05:00+10:00",
+    "perKwh": 18.86045,
+    "renewables": 28.832434483548553,
+    "spotPerKwh": 9.3489,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:05:01Z",
+    "endTime": "2025-05-17T06:10:00Z",
+    "nemTime": "2025-05-17T16:10:00+10:00",
+    "perKwh": 32.4128,
+    "renewables": 26.78076492459557,
+    "spotPerKwh": 22,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:10:01Z",
+    "endTime": "2025-05-17T06:15:00Z",
+    "nemTime": "2025-05-17T16:15:00+10:00",
+    "perKwh": 28.11766,
+    "renewables": 25.004224564694645,
+    "spotPerKwh": 17.9905,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:15:01Z",
+    "endTime": "2025-05-17T06:20:00Z",
+    "nemTime": "2025-05-17T16:20:00+10:00",
+    "perKwh": 20.44652,
+    "renewables": 23.37675267760357,
+    "spotPerKwh": 10.8295,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:20:01Z",
+    "endTime": "2025-05-17T06:25:00Z",
+    "nemTime": "2025-05-17T16:25:00+10:00",
+    "perKwh": 34.11435,
+    "renewables": 22.038252981164682,
+    "spotPerKwh": 23.5884,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:25:01Z",
+    "endTime": "2025-05-17T06:30:00Z",
+    "nemTime": "2025-05-17T16:30:00+10:00",
+    "perKwh": 28.11766,
+    "renewables": 20.557442297946743,
+    "spotPerKwh": 17.9905,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:30:01Z",
+    "endTime": "2025-05-17T06:35:00Z",
+    "nemTime": "2025-05-17T16:35:00+10:00",
+    "perKwh": 46.49391,
+    "renewables": 13.671253780892926,
+    "spotPerKwh": 35.1447,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:35:01Z",
+    "endTime": "2025-05-17T06:40:00Z",
+    "nemTime": "2025-05-17T16:40:00+10:00",
+    "perKwh": 38.47453,
+    "renewables": 12.80200989313581,
+    "spotPerKwh": 27.65862,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:40:01Z",
+    "endTime": "2025-05-17T06:45:00Z",
+    "nemTime": "2025-05-17T16:45:00+10:00",
+    "perKwh": 22.47095,
+    "renewables": 10.777604143078252,
+    "spotPerKwh": 12.7193,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:45:01Z",
+    "endTime": "2025-05-17T06:50:00Z",
+    "nemTime": "2025-05-17T16:50:00+10:00",
+    "perKwh": 39.27205,
+    "renewables": 8.442613752751011,
+    "spotPerKwh": 28.4031,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:50:01Z",
+    "endTime": "2025-05-17T06:55:00Z",
+    "nemTime": "2025-05-17T16:55:00+10:00",
+    "perKwh": 35.45887,
+    "renewables": 6.723717497919654,
+    "spotPerKwh": 24.8435,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:55:01Z",
+    "endTime": "2025-05-17T07:00:00Z",
+    "nemTime": "2025-05-17T17:00:00+10:00",
+    "perKwh": 34.72828,
+    "renewables": 5.709876869046237,
+    "spotPerKwh": 24.1615,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:00:01Z",
+    "endTime": "2025-05-17T07:05:00Z",
+    "nemTime": "2025-05-17T17:05:00+10:00",
+    "perKwh": 37.15571,
+    "renewables": 3.9052282617073915,
+    "spotPerKwh": 26.4275,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low"
+  },
+  {
+    "type": "CurrentInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:05:01Z",
+    "endTime": "2025-05-17T07:10:00Z",
+    "nemTime": "2025-05-17T17:10:00+10:00",
+    "perKwh": 34.11435,
+    "renewables": 3.6510000000000002,
+    "spotPerKwh": 23.5884,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low",
+    "estimate": false
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:10:01Z",
+    "endTime": "2025-05-17T07:15:00Z",
+    "nemTime": "2025-05-17T17:15:00+10:00",
+    "perKwh": 34.72828,
+    "renewables": 3.5129344693734423,
+    "spotPerKwh": 24.1615,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low",
+    "advancedPrice": {
+      "low": 28.72198,
+      "predicted": 32.67692,
+      "high": 40.89471
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:15:01Z",
+    "endTime": "2025-05-17T07:20:00Z",
+    "nemTime": "2025-05-17T17:20:00+10:00",
+    "perKwh": 41.72186,
+    "renewables": 3.2385570291043178,
+    "spotPerKwh": 30.69,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral",
+    "advancedPrice": {
+      "low": 27.78435,
+      "predicted": 32.36683,
+      "high": 40.40302
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:20:01Z",
+    "endTime": "2025-05-17T07:25:00Z",
+    "nemTime": "2025-05-17T17:25:00+10:00",
+    "perKwh": 47.96108,
+    "renewables": 2.967803239798909,
+    "spotPerKwh": 36.5143,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral",
+    "advancedPrice": {
+      "low": 26.4451,
+      "predicted": 31.33288,
+      "high": 39.97723
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:25:01Z",
+    "endTime": "2025-05-17T07:30:00Z",
+    "nemTime": "2025-05-17T17:30:00+10:00",
+    "perKwh": 41.72186,
+    "renewables": 2.6462187949287674,
+    "spotPerKwh": 30.69,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral",
+    "advancedPrice": {
+      "low": 26.11196,
+      "predicted": 30.4059,
+      "high": 40.51958
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:30:01Z",
+    "endTime": "2025-05-17T07:35:00Z",
+    "nemTime": "2025-05-17T17:35:00+10:00",
+    "perKwh": 38.55089,
+    "renewables": 2.417058682174268,
+    "spotPerKwh": 27.7299,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low",
+    "advancedPrice": {
+      "low": 25.30002,
+      "predicted": 29.49376,
+      "high": 38.16459
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:35:01Z",
+    "endTime": "2025-05-17T07:40:00Z",
+    "nemTime": "2025-05-17T17:40:00+10:00",
+    "perKwh": 42.42299,
+    "renewables": 2.348752510814498,
+    "spotPerKwh": 31.3445,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral",
+    "advancedPrice": {
+      "low": 25.14039,
+      "predicted": 29.11366,
+      "high": 36.41535
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:40:01Z",
+    "endTime": "2025-05-17T07:45:00Z",
+    "nemTime": "2025-05-17T17:45:00+10:00",
+    "perKwh": 41.72186,
+    "renewables": 2.3238514471170637,
+    "spotPerKwh": 30.69,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral",
+    "advancedPrice": {
+      "low": 24.78052,
+      "predicted": 29.09744,
+      "high": 36.45058
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:45:01Z",
+    "endTime": "2025-05-17T07:50:00Z",
+    "nemTime": "2025-05-17T17:50:00+10:00",
+    "perKwh": 25.88585,
+    "renewables": 2.311067198543952,
+    "spotPerKwh": 15.9071,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 24.35841,
+      "predicted": 27.95524,
+      "high": 35.70117
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:50:01Z",
+    "endTime": "2025-05-17T07:55:00Z",
+    "nemTime": "2025-05-17T17:55:00+10:00",
+    "perKwh": 34.77624,
+    "renewables": 2.2918825469148727,
+    "spotPerKwh": 24.20627,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low",
+    "advancedPrice": {
+      "low": 24.55691,
+      "predicted": 28.30642,
+      "high": 34.59318
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:55:01Z",
+    "endTime": "2025-05-17T08:00:00Z",
+    "nemTime": "2025-05-17T18:00:00+10:00",
+    "perKwh": 41.48619,
+    "renewables": 2.274357910874758,
+    "spotPerKwh": 30.47,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "neutral",
+    "advancedPrice": {
+      "low": 24.21358,
+      "predicted": 28.14208,
+      "high": 34.21706
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T08:00:01Z",
+    "endTime": "2025-05-17T08:30:00Z",
+    "nemTime": "2025-05-17T18:30:00+10:00",
+    "perKwh": 35.45887,
+    "renewables": 2.9315529711981205,
+    "spotPerKwh": 24.8435,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "low",
+    "advancedPrice": {
+      "low": 23.59455,
+      "predicted": 26.73157,
+      "high": 31.60049
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T08:30:01Z",
+    "endTime": "2025-05-17T09:00:00Z",
+    "nemTime": "2025-05-17T19:00:00+10:00",
+    "perKwh": 29.69227,
+    "renewables": 3.1652205175715755,
+    "spotPerKwh": 19.46039,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 22.29698,
+      "predicted": 24.91045,
+      "high": 29.37525
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T09:00:01Z",
+    "endTime": "2025-05-17T09:30:00Z",
+    "nemTime": "2025-05-17T19:30:00+10:00",
+    "perKwh": 24.23373,
+    "renewables": 3.3876415993224405,
+    "spotPerKwh": 14.36485,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 21.34262,
+      "predicted": 23.33133,
+      "high": 26.18976
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T09:30:01Z",
+    "endTime": "2025-05-17T10:00:00Z",
+    "nemTime": "2025-05-17T20:00:00+10:00",
+    "perKwh": 24.17165,
+    "renewables": 3.659073270286585,
+    "spotPerKwh": 14.3069,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 20.68015,
+      "predicted": 22.76537,
+      "high": 24.66789
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T10:00:01Z",
+    "endTime": "2025-05-17T10:30:00Z",
+    "nemTime": "2025-05-17T20:30:00+10:00",
+    "perKwh": 21.79197,
+    "renewables": 3.9739429485548943,
+    "spotPerKwh": 12.08547,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 19.76531,
+      "predicted": 21.99578,
+      "high": 24.26884
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T10:30:01Z",
+    "endTime": "2025-05-17T11:00:00Z",
+    "nemTime": "2025-05-17T21:00:00+10:00",
+    "perKwh": 20.53726,
+    "renewables": 4.243013609889813,
+    "spotPerKwh": 10.9142,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": true
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 19.52352,
+      "predicted": 21.40197,
+      "high": 24.18382
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T11:00:01Z",
+    "endTime": "2025-05-17T11:30:00Z",
+    "nemTime": "2025-05-17T21:30:00+10:00",
+    "perKwh": 22.41309,
+    "renewables": 4.453017121555295,
+    "spotPerKwh": 12.66529,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 19.08469,
+      "predicted": 21.33274,
+      "high": 24.23055
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T11:30:01Z",
+    "endTime": "2025-05-17T12:00:00Z",
+    "nemTime": "2025-05-17T22:00:00+10:00",
+    "perKwh": 20.25563,
+    "renewables": 4.7152965405033775,
+    "spotPerKwh": 10.6513,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 18.95063,
+      "predicted": 21.36692,
+      "high": 24.05155
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T12:00:01Z",
+    "endTime": "2025-05-17T12:30:00Z",
+    "nemTime": "2025-05-17T22:30:00+10:00",
+    "perKwh": 24.70879,
+    "renewables": 4.746612685047028,
+    "spotPerKwh": 14.80832,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 18.76283,
+      "predicted": 21.13176,
+      "high": 24.20153
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T12:30:01Z",
+    "endTime": "2025-05-17T13:00:00Z",
+    "nemTime": "2025-05-17T23:00:00+10:00",
+    "perKwh": 24.09945,
+    "renewables": 4.725072940491874,
+    "spotPerKwh": 14.2395,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 18.78912,
+      "predicted": 21.35294,
+      "high": 24.27756
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T13:00:01Z",
+    "endTime": "2025-05-17T13:30:00Z",
+    "nemTime": "2025-05-17T23:30:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 4.8210235807168305,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 18.43945,
+      "predicted": 20.27772,
+      "high": 23.34283
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T13:30:01Z",
+    "endTime": "2025-05-17T14:00:00Z",
+    "nemTime": "2025-05-18T00:00:00+10:00",
+    "perKwh": 20.72697,
+    "renewables": 5.089967777528079,
+    "spotPerKwh": 11.0913,
+    "channelType": "general",
+    "spikeStatus": "none",
+    "tariffInformation": {
+      "demandWindow": false
+    },
+    "descriptor": "veryLow",
+    "advancedPrice": {
+      "low": 18.27922,
+      "predicted": 20.02758,
+      "high": 22.3465
+    }
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:00:01Z",
+    "endTime": "2025-05-16T14:05:00Z",
+    "nemTime": "2025-05-17T00:05:00+10:00",
+    "perKwh": -17.45584,
+    "renewables": 0.643766639598742,
+    "spotPerKwh": 17.9245,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:05:01Z",
+    "endTime": "2025-05-16T14:10:00Z",
+    "nemTime": "2025-05-17T00:10:00+10:00",
+    "perKwh": -15.89819,
+    "renewables": 0.9853419672391615,
+    "spotPerKwh": 16.32503,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:10:01Z",
+    "endTime": "2025-05-16T14:15:00Z",
+    "nemTime": "2025-05-17T00:15:00+10:00",
+    "perKwh": -16.13802,
+    "renewables": 1.4271864741968465,
+    "spotPerKwh": 16.5713,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:15:01Z",
+    "endTime": "2025-05-16T14:20:00Z",
+    "nemTime": "2025-05-17T00:20:00+10:00",
+    "perKwh": -15.82475,
+    "renewables": 1.6319032642218085,
+    "spotPerKwh": 16.24962,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:20:01Z",
+    "endTime": "2025-05-16T14:25:00Z",
+    "nemTime": "2025-05-17T00:25:00+10:00",
+    "perKwh": -15.40313,
+    "renewables": 1.7812705636410224,
+    "spotPerKwh": 15.81668,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:25:01Z",
+    "endTime": "2025-05-16T14:30:00Z",
+    "nemTime": "2025-05-17T00:30:00+10:00",
+    "perKwh": -14.22928,
+    "renewables": 1.8949421990022874,
+    "spotPerKwh": 14.61131,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:30:01Z",
+    "endTime": "2025-05-16T14:35:00Z",
+    "nemTime": "2025-05-17T00:35:00+10:00",
+    "perKwh": -14.14234,
+    "renewables": 2.1147958841235175,
+    "spotPerKwh": 14.52204,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:35:01Z",
+    "endTime": "2025-05-16T14:40:00Z",
+    "nemTime": "2025-05-17T00:40:00+10:00",
+    "perKwh": -14.66688,
+    "renewables": 2.424742360534793,
+    "spotPerKwh": 15.06066,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:40:01Z",
+    "endTime": "2025-05-16T14:45:00Z",
+    "nemTime": "2025-05-17T00:45:00+10:00",
+    "perKwh": -14.7889,
+    "renewables": 2.722352810201163,
+    "spotPerKwh": 15.18596,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:45:01Z",
+    "endTime": "2025-05-16T14:50:00Z",
+    "nemTime": "2025-05-17T00:50:00+10:00",
+    "perKwh": -13.86719,
+    "renewables": 3.1837195252157517,
+    "spotPerKwh": 14.2395,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:50:01Z",
+    "endTime": "2025-05-16T14:55:00Z",
+    "nemTime": "2025-05-17T00:55:00+10:00",
+    "perKwh": -14.22927,
+    "renewables": 3.721175195240573,
+    "spotPerKwh": 14.6113,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T14:55:01Z",
+    "endTime": "2025-05-16T15:00:00Z",
+    "nemTime": "2025-05-17T01:00:00+10:00",
+    "perKwh": -14.22927,
+    "renewables": 4.208609279598644,
+    "spotPerKwh": 14.6113,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:00:01Z",
+    "endTime": "2025-05-16T15:05:00Z",
+    "nemTime": "2025-05-17T01:05:00+10:00",
+    "perKwh": -14.11219,
+    "renewables": 4.633258998407854,
+    "spotPerKwh": 14.49108,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:05:01Z",
+    "endTime": "2025-05-16T15:10:00Z",
+    "nemTime": "2025-05-17T01:10:00+10:00",
+    "perKwh": -13.86719,
+    "renewables": 5.2547936158889685,
+    "spotPerKwh": 14.2395,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:10:01Z",
+    "endTime": "2025-05-16T15:15:00Z",
+    "nemTime": "2025-05-17T01:15:00+10:00",
+    "perKwh": -13.42177,
+    "renewables": 5.440871873108294,
+    "spotPerKwh": 13.78212,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:15:01Z",
+    "endTime": "2025-05-16T15:20:00Z",
+    "nemTime": "2025-05-17T01:20:00+10:00",
+    "perKwh": -12.19392,
+    "renewables": 5.492743994737438,
+    "spotPerKwh": 12.52131,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:20:01Z",
+    "endTime": "2025-05-16T15:25:00Z",
+    "nemTime": "2025-05-17T01:25:00+10:00",
+    "perKwh": -12.31358,
+    "renewables": 5.351719183935056,
+    "spotPerKwh": 12.64418,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:25:01Z",
+    "endTime": "2025-05-16T15:30:00Z",
+    "nemTime": "2025-05-17T01:30:00+10:00",
+    "perKwh": -12.19392,
+    "renewables": 4.640515538518708,
+    "spotPerKwh": 12.52131,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:30:01Z",
+    "endTime": "2025-05-16T15:35:00Z",
+    "nemTime": "2025-05-17T01:35:00+10:00",
+    "perKwh": -12.19392,
+    "renewables": 4.367647561896888,
+    "spotPerKwh": 12.52131,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:35:01Z",
+    "endTime": "2025-05-16T15:40:00Z",
+    "nemTime": "2025-05-17T01:40:00+10:00",
+    "perKwh": -12.38674,
+    "renewables": 4.194219183296662,
+    "spotPerKwh": 12.7193,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:40:01Z",
+    "endTime": "2025-05-16T15:45:00Z",
+    "nemTime": "2025-05-17T01:45:00+10:00",
+    "perKwh": -12.21571,
+    "renewables": 4.14643972686337,
+    "spotPerKwh": 12.54368,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:45:01Z",
+    "endTime": "2025-05-16T15:50:00Z",
+    "nemTime": "2025-05-17T01:50:00+10:00",
+    "perKwh": -13.78181,
+    "renewables": 3.9475475979209307,
+    "spotPerKwh": 14.15183,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:50:01Z",
+    "endTime": "2025-05-16T15:55:00Z",
+    "nemTime": "2025-05-17T01:55:00+10:00",
+    "perKwh": -12.38674,
+    "renewables": 4.114959156558765,
+    "spotPerKwh": 12.7193,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T15:55:01Z",
+    "endTime": "2025-05-16T16:00:00Z",
+    "nemTime": "2025-05-17T02:00:00+10:00",
+    "perKwh": -13.67504,
+    "renewables": 3.67631573277023,
+    "spotPerKwh": 14.04219,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:00:01Z",
+    "endTime": "2025-05-16T16:05:00Z",
+    "nemTime": "2025-05-17T02:05:00+10:00",
+    "perKwh": -13.86719,
+    "renewables": 3.226239955967395,
+    "spotPerKwh": 14.2395,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:05:01Z",
+    "endTime": "2025-05-16T16:10:00Z",
+    "nemTime": "2025-05-17T02:10:00+10:00",
+    "perKwh": -13.86719,
+    "renewables": 3.2797111811925572,
+    "spotPerKwh": 14.2395,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:10:01Z",
+    "endTime": "2025-05-16T16:15:00Z",
+    "nemTime": "2025-05-17T02:15:00+10:00",
+    "perKwh": -13.98657,
+    "renewables": 3.344700505745135,
+    "spotPerKwh": 14.36209,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:15:01Z",
+    "endTime": "2025-05-16T16:20:00Z",
+    "nemTime": "2025-05-17T02:20:00+10:00",
+    "perKwh": -13.86719,
+    "renewables": 3.43708621032974,
+    "spotPerKwh": 14.2395,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:20:01Z",
+    "endTime": "2025-05-16T16:25:00Z",
+    "nemTime": "2025-05-17T02:25:00+10:00",
+    "perKwh": -14.29966,
+    "renewables": 3.575488444741267,
+    "spotPerKwh": 14.68358,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:25:01Z",
+    "endTime": "2025-05-16T16:30:00Z",
+    "nemTime": "2025-05-17T02:30:00+10:00",
+    "perKwh": -13.0362,
+    "renewables": 3.520169826917731,
+    "spotPerKwh": 13.3862,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:30:01Z",
+    "endTime": "2025-05-16T16:35:00Z",
+    "nemTime": "2025-05-17T02:35:00+10:00",
+    "perKwh": -14.64519,
+    "renewables": 3.353263005780347,
+    "spotPerKwh": 15.03839,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:35:01Z",
+    "endTime": "2025-05-16T16:40:00Z",
+    "nemTime": "2025-05-17T02:40:00+10:00",
+    "perKwh": -14.67126,
+    "renewables": 3.6563877857173916,
+    "spotPerKwh": 15.06516,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:40:01Z",
+    "endTime": "2025-05-16T16:45:00Z",
+    "nemTime": "2025-05-17T02:45:00+10:00",
+    "perKwh": -14.77827,
+    "renewables": 3.679757310335044,
+    "spotPerKwh": 15.17504,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:45:01Z",
+    "endTime": "2025-05-16T16:50:00Z",
+    "nemTime": "2025-05-17T02:50:00+10:00",
+    "perKwh": -14.68584,
+    "renewables": 3.903905303383353,
+    "spotPerKwh": 15.08013,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:50:01Z",
+    "endTime": "2025-05-16T16:55:00Z",
+    "nemTime": "2025-05-17T02:55:00+10:00",
+    "perKwh": -14.794,
+    "renewables": 3.8304913347544245,
+    "spotPerKwh": 15.19119,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T16:55:01Z",
+    "endTime": "2025-05-16T17:00:00Z",
+    "nemTime": "2025-05-17T03:00:00+10:00",
+    "perKwh": -14.44054,
+    "renewables": 3.75449898028552,
+    "spotPerKwh": 14.82824,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:00:01Z",
+    "endTime": "2025-05-16T17:05:00Z",
+    "nemTime": "2025-05-17T03:05:00+10:00",
+    "perKwh": -16.10426,
+    "renewables": 3.9089741653632486,
+    "spotPerKwh": 16.53663,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:05:01Z",
+    "endTime": "2025-05-16T17:10:00Z",
+    "nemTime": "2025-05-17T03:10:00+10:00",
+    "perKwh": -14.52613,
+    "renewables": 3.890870701089705,
+    "spotPerKwh": 14.91613,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:10:01Z",
+    "endTime": "2025-05-16T17:15:00Z",
+    "nemTime": "2025-05-17T03:15:00+10:00",
+    "perKwh": -15.06776,
+    "renewables": 3.6206179633039888,
+    "spotPerKwh": 15.4723,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:15:01Z",
+    "endTime": "2025-05-16T17:20:00Z",
+    "nemTime": "2025-05-17T03:20:00+10:00",
+    "perKwh": -15.99555,
+    "renewables": 3.716009611760618,
+    "spotPerKwh": 16.425,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:20:01Z",
+    "endTime": "2025-05-16T17:25:00Z",
+    "nemTime": "2025-05-17T03:25:00+10:00",
+    "perKwh": -15.10643,
+    "renewables": 3.4646753355490922,
+    "spotPerKwh": 15.51201,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:25:01Z",
+    "endTime": "2025-05-16T17:30:00Z",
+    "nemTime": "2025-05-17T03:30:00+10:00",
+    "perKwh": -15.08306,
+    "renewables": 2.9457318453293615,
+    "spotPerKwh": 15.48802,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:30:01Z",
+    "endTime": "2025-05-16T17:35:00Z",
+    "nemTime": "2025-05-17T03:35:00+10:00",
+    "perKwh": -15.03278,
+    "renewables": 2.63047020336018,
+    "spotPerKwh": 15.43639,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:35:01Z",
+    "endTime": "2025-05-16T17:40:00Z",
+    "nemTime": "2025-05-17T03:40:00+10:00",
+    "perKwh": -15.39809,
+    "renewables": 2.4387778200992494,
+    "spotPerKwh": 15.8115,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:40:01Z",
+    "endTime": "2025-05-16T17:45:00Z",
+    "nemTime": "2025-05-17T03:45:00+10:00",
+    "perKwh": -15.02992,
+    "renewables": 2.367525566817939,
+    "spotPerKwh": 15.43345,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:45:01Z",
+    "endTime": "2025-05-16T17:50:00Z",
+    "nemTime": "2025-05-17T03:50:00+10:00",
+    "perKwh": -15.37124,
+    "renewables": 2.4138225809942218,
+    "spotPerKwh": 15.78393,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:50:01Z",
+    "endTime": "2025-05-16T17:55:00Z",
+    "nemTime": "2025-05-17T03:55:00+10:00",
+    "perKwh": -14.89975,
+    "renewables": 2.5236563365284144,
+    "spotPerKwh": 15.29978,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T17:55:01Z",
+    "endTime": "2025-05-16T18:00:00Z",
+    "nemTime": "2025-05-17T04:00:00+10:00",
+    "perKwh": -15.0322,
+    "renewables": 2.67279119524224,
+    "spotPerKwh": 15.43579,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:00:01Z",
+    "endTime": "2025-05-16T18:05:00Z",
+    "nemTime": "2025-05-17T04:05:00+10:00",
+    "perKwh": -15.06178,
+    "renewables": 2.7138447630584537,
+    "spotPerKwh": 15.46616,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:05:01Z",
+    "endTime": "2025-05-16T18:10:00Z",
+    "nemTime": "2025-05-17T04:10:00+10:00",
+    "perKwh": -16.67705,
+    "renewables": 2.73430939972457,
+    "spotPerKwh": 17.1248,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:10:01Z",
+    "endTime": "2025-05-16T18:15:00Z",
+    "nemTime": "2025-05-17T04:15:00+10:00",
+    "perKwh": -17.45584,
+    "renewables": 2.5552666915796944,
+    "spotPerKwh": 17.9245,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:15:01Z",
+    "endTime": "2025-05-16T18:20:00Z",
+    "nemTime": "2025-05-17T04:20:00+10:00",
+    "perKwh": -16.32935,
+    "renewables": 2.391117563682896,
+    "spotPerKwh": 16.76777,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:20:01Z",
+    "endTime": "2025-05-16T18:25:00Z",
+    "nemTime": "2025-05-17T04:25:00+10:00",
+    "perKwh": -17.10121,
+    "renewables": 2.2380414362824292,
+    "spotPerKwh": 17.56035,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:25:01Z",
+    "endTime": "2025-05-16T18:30:00Z",
+    "nemTime": "2025-05-17T04:30:00+10:00",
+    "perKwh": -15.62538,
+    "renewables": 2.166963682930227,
+    "spotPerKwh": 16.0449,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:30:01Z",
+    "endTime": "2025-05-16T18:35:00Z",
+    "nemTime": "2025-05-17T04:35:00+10:00",
+    "perKwh": -15.11378,
+    "renewables": 2.063362872799782,
+    "spotPerKwh": 15.51956,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:35:01Z",
+    "endTime": "2025-05-16T18:40:00Z",
+    "nemTime": "2025-05-17T04:40:00+10:00",
+    "perKwh": -21.67988,
+    "renewables": 2.262092307141451,
+    "spotPerKwh": 22.26195,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:40:01Z",
+    "endTime": "2025-05-16T18:45:00Z",
+    "nemTime": "2025-05-17T04:45:00+10:00",
+    "perKwh": -15.60887,
+    "renewables": 2.2011284747227426,
+    "spotPerKwh": 16.02794,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:45:01Z",
+    "endTime": "2025-05-16T18:50:00Z",
+    "nemTime": "2025-05-17T04:50:00+10:00",
+    "perKwh": -15.60477,
+    "renewables": 2.124864605618395,
+    "spotPerKwh": 16.02373,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:50:01Z",
+    "endTime": "2025-05-16T18:55:00Z",
+    "nemTime": "2025-05-17T04:55:00+10:00",
+    "perKwh": -16.00717,
+    "renewables": 2.0414108908676,
+    "spotPerKwh": 16.43694,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T18:55:01Z",
+    "endTime": "2025-05-16T19:00:00Z",
+    "nemTime": "2025-05-17T05:00:00+10:00",
+    "perKwh": -16.22958,
+    "renewables": 2.064871370865492,
+    "spotPerKwh": 16.66532,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:00:01Z",
+    "endTime": "2025-05-16T19:05:00Z",
+    "nemTime": "2025-05-17T05:05:00+10:00",
+    "perKwh": -15.91306,
+    "renewables": 1.974011987598051,
+    "spotPerKwh": 16.3403,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:05:01Z",
+    "endTime": "2025-05-16T19:10:00Z",
+    "nemTime": "2025-05-17T05:10:00+10:00",
+    "perKwh": -16.97211,
+    "renewables": 1.7173239082024876,
+    "spotPerKwh": 17.42778,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:10:01Z",
+    "endTime": "2025-05-16T19:15:00Z",
+    "nemTime": "2025-05-17T05:15:00+10:00",
+    "perKwh": -16.87303,
+    "renewables": 1.3813006434593516,
+    "spotPerKwh": 17.32604,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:15:01Z",
+    "endTime": "2025-05-16T19:20:00Z",
+    "nemTime": "2025-05-17T05:20:00+10:00",
+    "perKwh": -17.28758,
+    "renewables": 1.0646478848330503,
+    "spotPerKwh": 17.75172,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:20:01Z",
+    "endTime": "2025-05-16T19:25:00Z",
+    "nemTime": "2025-05-17T05:25:00+10:00",
+    "perKwh": -17.57757,
+    "renewables": 0.8936915324061283,
+    "spotPerKwh": 18.0495,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:25:01Z",
+    "endTime": "2025-05-16T19:30:00Z",
+    "nemTime": "2025-05-17T05:30:00+10:00",
+    "perKwh": -16.83882,
+    "renewables": 0.7925805349464222,
+    "spotPerKwh": 17.29091,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:30:01Z",
+    "endTime": "2025-05-16T19:35:00Z",
+    "nemTime": "2025-05-17T05:35:00+10:00",
+    "perKwh": -16.26002,
+    "renewables": 0.8230036769166653,
+    "spotPerKwh": 16.69658,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:35:01Z",
+    "endTime": "2025-05-16T19:40:00Z",
+    "nemTime": "2025-05-17T05:40:00+10:00",
+    "perKwh": -15.85015,
+    "renewables": 0.6980018323034748,
+    "spotPerKwh": 16.2757,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:40:01Z",
+    "endTime": "2025-05-16T19:45:00Z",
+    "nemTime": "2025-05-17T05:45:00+10:00",
+    "perKwh": -16.46825,
+    "renewables": 0.7197659204903195,
+    "spotPerKwh": 16.9104,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:45:01Z",
+    "endTime": "2025-05-16T19:50:00Z",
+    "nemTime": "2025-05-17T05:50:00+10:00",
+    "perKwh": -16.40757,
+    "renewables": 0.7855676292771893,
+    "spotPerKwh": 16.84809,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:50:01Z",
+    "endTime": "2025-05-16T19:55:00Z",
+    "nemTime": "2025-05-17T05:55:00+10:00",
+    "perKwh": -16.50372,
+    "renewables": 0.8437873875440045,
+    "spotPerKwh": 16.94682,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T19:55:01Z",
+    "endTime": "2025-05-16T20:00:00Z",
+    "nemTime": "2025-05-17T06:00:00+10:00",
+    "perKwh": -16.34929,
+    "renewables": 0.9686146910698504,
+    "spotPerKwh": 16.78824,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:00:01Z",
+    "endTime": "2025-05-16T20:05:00Z",
+    "nemTime": "2025-05-17T06:05:00+10:00",
+    "perKwh": -16.71794,
+    "renewables": 0.9320397485408536,
+    "spotPerKwh": 17.16679,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:05:01Z",
+    "endTime": "2025-05-16T20:10:00Z",
+    "nemTime": "2025-05-17T06:10:00+10:00",
+    "perKwh": -16.14651,
+    "renewables": 1.0285964879059815,
+    "spotPerKwh": 16.58002,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:10:01Z",
+    "endTime": "2025-05-16T20:15:00Z",
+    "nemTime": "2025-05-17T06:15:00+10:00",
+    "perKwh": -17.43756,
+    "renewables": 1.1486204118066925,
+    "spotPerKwh": 17.90573,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:15:01Z",
+    "endTime": "2025-05-16T20:20:00Z",
+    "nemTime": "2025-05-17T06:20:00+10:00",
+    "perKwh": -24.19393,
+    "renewables": 1.1212161254575372,
+    "spotPerKwh": 24.8435,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:20:01Z",
+    "endTime": "2025-05-16T20:25:00Z",
+    "nemTime": "2025-05-17T06:25:00+10:00",
+    "perKwh": -16.07381,
+    "renewables": 1.2198808993111339,
+    "spotPerKwh": 16.50537,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:25:01Z",
+    "endTime": "2025-05-16T20:30:00Z",
+    "nemTime": "2025-05-17T06:30:00+10:00",
+    "perKwh": -15.64796,
+    "renewables": 1.2511724380027207,
+    "spotPerKwh": 16.06808,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:30:01Z",
+    "endTime": "2025-05-16T20:35:00Z",
+    "nemTime": "2025-05-17T06:35:00+10:00",
+    "perKwh": -15.27657,
+    "renewables": 1.984719863328554,
+    "spotPerKwh": 15.68672,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:35:01Z",
+    "endTime": "2025-05-16T20:40:00Z",
+    "nemTime": "2025-05-17T06:40:00+10:00",
+    "perKwh": -14.93263,
+    "renewables": 2.1355307145194398,
+    "spotPerKwh": 15.33355,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:40:01Z",
+    "endTime": "2025-05-16T20:45:00Z",
+    "nemTime": "2025-05-17T06:45:00+10:00",
+    "perKwh": -15.03355,
+    "renewables": 2.3032361055590003,
+    "spotPerKwh": 15.43718,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:45:01Z",
+    "endTime": "2025-05-16T20:50:00Z",
+    "nemTime": "2025-05-17T06:50:00+10:00",
+    "perKwh": -14.96299,
+    "renewables": 2.4386234909384057,
+    "spotPerKwh": 15.36472,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:50:01Z",
+    "endTime": "2025-05-16T20:55:00Z",
+    "nemTime": "2025-05-17T06:55:00+10:00",
+    "perKwh": -15.32419,
+    "renewables": 2.791758340644566,
+    "spotPerKwh": 15.73562,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T20:55:01Z",
+    "endTime": "2025-05-16T21:00:00Z",
+    "nemTime": "2025-05-17T07:00:00+10:00",
+    "perKwh": -15.33297,
+    "renewables": 3.3867742156096683,
+    "spotPerKwh": 15.74464,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:00:01Z",
+    "endTime": "2025-05-16T21:05:00Z",
+    "nemTime": "2025-05-17T07:05:00+10:00",
+    "perKwh": -19.42059,
+    "renewables": 6.58100748102063,
+    "spotPerKwh": 19.942,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:05:01Z",
+    "endTime": "2025-05-16T21:10:00Z",
+    "nemTime": "2025-05-17T07:10:00+10:00",
+    "perKwh": -16.71927,
+    "renewables": 7.5339272833809385,
+    "spotPerKwh": 17.16816,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:10:01Z",
+    "endTime": "2025-05-16T21:15:00Z",
+    "nemTime": "2025-05-17T07:15:00+10:00",
+    "perKwh": -24.32835,
+    "renewables": 7.936065678173347,
+    "spotPerKwh": 24.98153,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:15:01Z",
+    "endTime": "2025-05-16T21:20:00Z",
+    "nemTime": "2025-05-17T07:20:00+10:00",
+    "perKwh": -19.2074,
+    "renewables": 8.403490480529449,
+    "spotPerKwh": 19.72309,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:20:01Z",
+    "endTime": "2025-05-16T21:25:00Z",
+    "nemTime": "2025-05-17T07:25:00+10:00",
+    "perKwh": -15.47431,
+    "renewables": 9.763276525057071,
+    "spotPerKwh": 15.88977,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:25:01Z",
+    "endTime": "2025-05-16T21:30:00Z",
+    "nemTime": "2025-05-17T07:30:00+10:00",
+    "perKwh": -14.31343,
+    "renewables": 10.718603808560433,
+    "spotPerKwh": 14.69772,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:30:01Z",
+    "endTime": "2025-05-16T21:35:00Z",
+    "nemTime": "2025-05-17T07:35:00+10:00",
+    "perKwh": -13.94753,
+    "renewables": 14.948444511502032,
+    "spotPerKwh": 14.322,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:35:01Z",
+    "endTime": "2025-05-16T21:40:00Z",
+    "nemTime": "2025-05-17T07:40:00+10:00",
+    "perKwh": -12.76824,
+    "renewables": 16.188007163648088,
+    "spotPerKwh": 13.11105,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:40:01Z",
+    "endTime": "2025-05-16T21:45:00Z",
+    "nemTime": "2025-05-17T07:45:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 18.238323798302673,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:45:01Z",
+    "endTime": "2025-05-16T21:50:00Z",
+    "nemTime": "2025-05-17T07:50:00+10:00",
+    "perKwh": -10.4501,
+    "renewables": 20.307800533218337,
+    "spotPerKwh": 10.73067,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:50:01Z",
+    "endTime": "2025-05-16T21:55:00Z",
+    "nemTime": "2025-05-17T07:55:00+10:00",
+    "perKwh": -10.62883,
+    "renewables": 19.611791095331576,
+    "spotPerKwh": 10.9142,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T21:55:01Z",
+    "endTime": "2025-05-16T22:00:00Z",
+    "nemTime": "2025-05-17T08:00:00+10:00",
+    "perKwh": -10.62883,
+    "renewables": 20.59710827462336,
+    "spotPerKwh": 10.9142,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:00:01Z",
+    "endTime": "2025-05-16T22:05:00Z",
+    "nemTime": "2025-05-17T08:05:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 22.826554653479818,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:05:01Z",
+    "endTime": "2025-05-16T22:10:00Z",
+    "nemTime": "2025-05-17T08:10:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 22.892077549869835,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:10:01Z",
+    "endTime": "2025-05-16T22:15:00Z",
+    "nemTime": "2025-05-17T08:15:00+10:00",
+    "perKwh": -11.09628,
+    "renewables": 22.88829155014318,
+    "spotPerKwh": 11.3942,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:15:01Z",
+    "endTime": "2025-05-16T22:20:00Z",
+    "nemTime": "2025-05-17T08:20:00+10:00",
+    "perKwh": -10.80273,
+    "renewables": 23.847981315199466,
+    "spotPerKwh": 11.09277,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:20:01Z",
+    "endTime": "2025-05-16T22:25:00Z",
+    "nemTime": "2025-05-17T08:25:00+10:00",
+    "perKwh": -10.62883,
+    "renewables": 24.084519589214707,
+    "spotPerKwh": 10.9142,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:25:01Z",
+    "endTime": "2025-05-16T22:30:00Z",
+    "nemTime": "2025-05-17T08:30:00+10:00",
+    "perKwh": -10.62883,
+    "renewables": 24.438796767966085,
+    "spotPerKwh": 10.9142,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:30:01Z",
+    "endTime": "2025-05-16T22:35:00Z",
+    "nemTime": "2025-05-17T08:35:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 28.21293626082555,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:35:01Z",
+    "endTime": "2025-05-16T22:40:00Z",
+    "nemTime": "2025-05-17T08:40:00+10:00",
+    "perKwh": -11.41191,
+    "renewables": 28.60161817432667,
+    "spotPerKwh": 11.7183,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:40:01Z",
+    "endTime": "2025-05-16T22:45:00Z",
+    "nemTime": "2025-05-17T08:45:00+10:00",
+    "perKwh": -10.77068,
+    "renewables": 29.290872861627708,
+    "spotPerKwh": 11.05986,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:45:01Z",
+    "endTime": "2025-05-16T22:50:00Z",
+    "nemTime": "2025-05-17T08:50:00+10:00",
+    "perKwh": -9.38808,
+    "renewables": 31.675034596047446,
+    "spotPerKwh": 9.64013,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:50:01Z",
+    "endTime": "2025-05-16T22:55:00Z",
+    "nemTime": "2025-05-17T08:55:00+10:00",
+    "perKwh": -8.82343,
+    "renewables": 32.31724528311723,
+    "spotPerKwh": 9.06032,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T22:55:01Z",
+    "endTime": "2025-05-16T23:00:00Z",
+    "nemTime": "2025-05-17T09:00:00+10:00",
+    "perKwh": -8.30532,
+    "renewables": 33.18028426349724,
+    "spotPerKwh": 8.5283,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:00:01Z",
+    "endTime": "2025-05-16T23:05:00Z",
+    "nemTime": "2025-05-17T09:05:00+10:00",
+    "perKwh": -10.80129,
+    "renewables": 36.99724197151034,
+    "spotPerKwh": 11.09129,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:05:01Z",
+    "endTime": "2025-05-16T23:10:00Z",
+    "nemTime": "2025-05-17T09:10:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 37.8699231283996,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:10:01Z",
+    "endTime": "2025-05-16T23:15:00Z",
+    "nemTime": "2025-05-17T09:15:00+10:00",
+    "perKwh": -10.3728,
+    "renewables": 39.030349093663034,
+    "spotPerKwh": 10.65129,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:15:01Z",
+    "endTime": "2025-05-16T23:20:00Z",
+    "nemTime": "2025-05-17T09:20:00+10:00",
+    "perKwh": -10.17677,
+    "renewables": 39.731098285653886,
+    "spotPerKwh": 10.45,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:20:01Z",
+    "endTime": "2025-05-16T23:25:00Z",
+    "nemTime": "2025-05-17T09:25:00+10:00",
+    "perKwh": -8.12321,
+    "renewables": 39.89062751211253,
+    "spotPerKwh": 8.3413,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:25:01Z",
+    "endTime": "2025-05-16T23:30:00Z",
+    "nemTime": "2025-05-17T09:30:00+10:00",
+    "perKwh": -8.12321,
+    "renewables": 40.59879879604703,
+    "spotPerKwh": 8.3413,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:30:01Z",
+    "endTime": "2025-05-16T23:35:00Z",
+    "nemTime": "2025-05-17T09:35:00+10:00",
+    "perKwh": -7.94265,
+    "renewables": 44.76701656502615,
+    "spotPerKwh": 8.1559,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:35:01Z",
+    "endTime": "2025-05-16T23:40:00Z",
+    "nemTime": "2025-05-17T09:40:00+10:00",
+    "perKwh": -7.89892,
+    "renewables": 45.39597576961804,
+    "spotPerKwh": 8.11099,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:40:01Z",
+    "endTime": "2025-05-16T23:45:00Z",
+    "nemTime": "2025-05-17T09:45:00+10:00",
+    "perKwh": -6.61125,
+    "renewables": 46.60590227803144,
+    "spotPerKwh": 6.78875,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:45:01Z",
+    "endTime": "2025-05-16T23:50:00Z",
+    "nemTime": "2025-05-17T09:50:00+10:00",
+    "perKwh": -6.02895,
+    "renewables": 47.271391492473356,
+    "spotPerKwh": 6.19082,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:50:01Z",
+    "endTime": "2025-05-16T23:55:00Z",
+    "nemTime": "2025-05-17T09:55:00+10:00",
+    "perKwh": -7.88068,
+    "renewables": 47.00435733605177,
+    "spotPerKwh": 8.09226,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-16T23:55:01Z",
+    "endTime": "2025-05-17T00:00:00Z",
+    "nemTime": "2025-05-17T10:00:00+10:00",
+    "perKwh": -6.72582,
+    "renewables": 46.326295009326934,
+    "spotPerKwh": 6.9064,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:00:01Z",
+    "endTime": "2025-05-17T00:05:00Z",
+    "nemTime": "2025-05-17T10:05:00+10:00",
+    "perKwh": -6.59391,
+    "renewables": 47.77874582998937,
+    "spotPerKwh": 6.77095,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:05:01Z",
+    "endTime": "2025-05-17T00:10:00Z",
+    "nemTime": "2025-05-17T10:10:00+10:00",
+    "perKwh": -10.0953,
+    "renewables": 46.224789214623726,
+    "spotPerKwh": 10.36634,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:10:01Z",
+    "endTime": "2025-05-17T00:15:00Z",
+    "nemTime": "2025-05-17T10:15:00+10:00",
+    "perKwh": -8.1276,
+    "renewables": 47.57727299246943,
+    "spotPerKwh": 8.34581,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:15:01Z",
+    "endTime": "2025-05-17T00:20:00Z",
+    "nemTime": "2025-05-17T10:20:00+10:00",
+    "perKwh": -5.8661,
+    "renewables": 48.443671673057864,
+    "spotPerKwh": 6.0236,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:20:01Z",
+    "endTime": "2025-05-17T00:25:00Z",
+    "nemTime": "2025-05-17T10:25:00+10:00",
+    "perKwh": -6.62514,
+    "renewables": 48.021350724878545,
+    "spotPerKwh": 6.80301,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:25:01Z",
+    "endTime": "2025-05-17T00:30:00Z",
+    "nemTime": "2025-05-17T10:30:00+10:00",
+    "perKwh": -5.8661,
+    "renewables": 48.751935904878174,
+    "spotPerKwh": 6.0236,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:30:01Z",
+    "endTime": "2025-05-17T00:35:00Z",
+    "nemTime": "2025-05-17T10:35:00+10:00",
+    "perKwh": -4.28496,
+    "renewables": 51.39757942122554,
+    "spotPerKwh": 4.4,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:35:01Z",
+    "endTime": "2025-05-17T00:40:00Z",
+    "nemTime": "2025-05-17T10:40:00+10:00",
+    "perKwh": -6.71593,
+    "renewables": 51.129502498255775,
+    "spotPerKwh": 6.89624,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:40:01Z",
+    "endTime": "2025-05-17T00:45:00Z",
+    "nemTime": "2025-05-17T10:45:00+10:00",
+    "perKwh": -5.8661,
+    "renewables": 51.475339077834306,
+    "spotPerKwh": 6.0236,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:45:01Z",
+    "endTime": "2025-05-17T00:50:00Z",
+    "nemTime": "2025-05-17T10:50:00+10:00",
+    "perKwh": -5.78858,
+    "renewables": 52.75333108723726,
+    "spotPerKwh": 5.94399,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:50:01Z",
+    "endTime": "2025-05-17T00:55:00Z",
+    "nemTime": "2025-05-17T10:55:00+10:00",
+    "perKwh": -5.40593,
+    "renewables": 53.868317741704665,
+    "spotPerKwh": 5.55107,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T00:55:01Z",
+    "endTime": "2025-05-17T01:00:00Z",
+    "nemTime": "2025-05-17T11:00:00+10:00",
+    "perKwh": -5.46655,
+    "renewables": 53.82134179819301,
+    "spotPerKwh": 5.61332,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:00:01Z",
+    "endTime": "2025-05-17T01:05:00Z",
+    "nemTime": "2025-05-17T11:05:00+10:00",
+    "perKwh": -2.05748,
+    "renewables": 56.315554776640596,
+    "spotPerKwh": 2.11272,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:05:01Z",
+    "endTime": "2025-05-17T01:10:00Z",
+    "nemTime": "2025-05-17T11:10:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 55.47372308436955,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:10:01Z",
+    "endTime": "2025-05-17T01:15:00Z",
+    "nemTime": "2025-05-17T11:15:00+10:00",
+    "perKwh": -5.70417,
+    "renewables": 55.243384816279864,
+    "spotPerKwh": 5.85732,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:15:01Z",
+    "endTime": "2025-05-17T01:20:00Z",
+    "nemTime": "2025-05-17T11:20:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 55.44959996124257,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:20:01Z",
+    "endTime": "2025-05-17T01:25:00Z",
+    "nemTime": "2025-05-17T11:25:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 53.790118549446916,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:25:01Z",
+    "endTime": "2025-05-17T01:30:00Z",
+    "nemTime": "2025-05-17T11:30:00+10:00",
+    "perKwh": -2.8894,
+    "renewables": 56.65264254950028,
+    "spotPerKwh": 2.96698,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:30:01Z",
+    "endTime": "2025-05-17T01:35:00Z",
+    "nemTime": "2025-05-17T11:35:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 57.872803370111384,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:35:01Z",
+    "endTime": "2025-05-17T01:40:00Z",
+    "nemTime": "2025-05-17T11:40:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 58.074375943733216,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:40:01Z",
+    "endTime": "2025-05-17T01:45:00Z",
+    "nemTime": "2025-05-17T11:45:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 60.19368709101569,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:45:01Z",
+    "endTime": "2025-05-17T01:50:00Z",
+    "nemTime": "2025-05-17T11:50:00+10:00",
+    "perKwh": -2.55046,
+    "renewables": 60.98682018370223,
+    "spotPerKwh": 2.61894,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:50:01Z",
+    "endTime": "2025-05-17T01:55:00Z",
+    "nemTime": "2025-05-17T11:55:00+10:00",
+    "perKwh": -5.62318,
+    "renewables": 60.275540189463904,
+    "spotPerKwh": 5.77415,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T01:55:01Z",
+    "endTime": "2025-05-17T02:00:00Z",
+    "nemTime": "2025-05-17T12:00:00+10:00",
+    "perKwh": -5.43654,
+    "renewables": 61.34471597710353,
+    "spotPerKwh": 5.5825,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:00:01Z",
+    "endTime": "2025-05-17T02:05:00Z",
+    "nemTime": "2025-05-17T12:05:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 62.058937980664886,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:05:01Z",
+    "endTime": "2025-05-17T02:10:00Z",
+    "nemTime": "2025-05-17T12:10:00+10:00",
+    "perKwh": -5.21137,
+    "renewables": 60.5536563023723,
+    "spotPerKwh": 5.35129,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:10:01Z",
+    "endTime": "2025-05-17T02:15:00Z",
+    "nemTime": "2025-05-17T12:15:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 61.63870278236033,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:15:01Z",
+    "endTime": "2025-05-17T02:20:00Z",
+    "nemTime": "2025-05-17T12:20:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 62.07963576657928,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:20:01Z",
+    "endTime": "2025-05-17T02:25:00Z",
+    "nemTime": "2025-05-17T12:25:00+10:00",
+    "perKwh": -3.72187,
+    "renewables": 61.406954175684156,
+    "spotPerKwh": 3.8218,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:25:01Z",
+    "endTime": "2025-05-17T02:30:00Z",
+    "nemTime": "2025-05-17T12:30:00+10:00",
+    "perKwh": -0.97445,
+    "renewables": 61.9721252437023,
+    "spotPerKwh": 1.00061,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:30:01Z",
+    "endTime": "2025-05-17T02:35:00Z",
+    "nemTime": "2025-05-17T12:35:00+10:00",
+    "perKwh": -3.66899,
+    "renewables": 62.63057976763119,
+    "spotPerKwh": 3.7675,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:35:01Z",
+    "endTime": "2025-05-17T02:40:00Z",
+    "nemTime": "2025-05-17T12:40:00+10:00",
+    "perKwh": -2.18807,
+    "renewables": 64.0507559443773,
+    "spotPerKwh": 2.24682,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:40:01Z",
+    "endTime": "2025-05-17T02:45:00Z",
+    "nemTime": "2025-05-17T12:45:00+10:00",
+    "perKwh": -2.43493,
+    "renewables": 64.23427155815047,
+    "spotPerKwh": 2.5003,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:45:01Z",
+    "endTime": "2025-05-17T02:50:00Z",
+    "nemTime": "2025-05-17T12:50:00+10:00",
+    "perKwh": -2.00189,
+    "renewables": 65.50347277730931,
+    "spotPerKwh": 2.05564,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:50:01Z",
+    "endTime": "2025-05-17T02:55:00Z",
+    "nemTime": "2025-05-17T12:55:00+10:00",
+    "perKwh": 1.6868,
+    "renewables": 65.30287730009985,
+    "spotPerKwh": -1.73209,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "extremelyLow"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T02:55:01Z",
+    "endTime": "2025-05-17T03:00:00Z",
+    "nemTime": "2025-05-17T13:00:00+10:00",
+    "perKwh": -1.56963,
+    "renewables": 65.22767203040236,
+    "spotPerKwh": 1.61177,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:00:01Z",
+    "endTime": "2025-05-17T03:05:00Z",
+    "nemTime": "2025-05-17T13:05:00+10:00",
+    "perKwh": -2.01307,
+    "renewables": 64.40879386251285,
+    "spotPerKwh": 2.06712,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:05:01Z",
+    "endTime": "2025-05-17T03:10:00Z",
+    "nemTime": "2025-05-17T13:10:00+10:00",
+    "perKwh": -2.04798,
+    "renewables": 64.96671786558692,
+    "spotPerKwh": 2.10296,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:10:01Z",
+    "endTime": "2025-05-17T03:15:00Z",
+    "nemTime": "2025-05-17T13:15:00+10:00",
+    "perKwh": -2.06237,
+    "renewables": 63.69300284052777,
+    "spotPerKwh": 2.11774,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:15:01Z",
+    "endTime": "2025-05-17T03:20:00Z",
+    "nemTime": "2025-05-17T13:20:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 61.9848537481798,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:20:01Z",
+    "endTime": "2025-05-17T03:25:00Z",
+    "nemTime": "2025-05-17T13:25:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 63.29743291122987,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:25:01Z",
+    "endTime": "2025-05-17T03:30:00Z",
+    "nemTime": "2025-05-17T13:30:00+10:00",
+    "perKwh": -3.51697,
+    "renewables": 63.93897983790249,
+    "spotPerKwh": 3.6114,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:30:01Z",
+    "endTime": "2025-05-17T03:35:00Z",
+    "nemTime": "2025-05-17T13:35:00+10:00",
+    "perKwh": -3.72257,
+    "renewables": 61.2730519477386,
+    "spotPerKwh": 3.82251,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:35:01Z",
+    "endTime": "2025-05-17T03:40:00Z",
+    "nemTime": "2025-05-17T13:40:00+10:00",
+    "perKwh": -3.76439,
+    "renewables": 61.726446296626946,
+    "spotPerKwh": 3.86546,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:40:01Z",
+    "endTime": "2025-05-17T03:45:00Z",
+    "nemTime": "2025-05-17T13:45:00+10:00",
+    "perKwh": -2.56564,
+    "renewables": 63.96746518596837,
+    "spotPerKwh": 2.63452,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:45:01Z",
+    "endTime": "2025-05-17T03:50:00Z",
+    "nemTime": "2025-05-17T13:50:00+10:00",
+    "perKwh": -3.3956,
+    "renewables": 65.19048518264815,
+    "spotPerKwh": 3.48677,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:50:01Z",
+    "endTime": "2025-05-17T03:55:00Z",
+    "nemTime": "2025-05-17T13:55:00+10:00",
+    "perKwh": -4.74718,
+    "renewables": 63.41215924117326,
+    "spotPerKwh": 4.87463,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T03:55:01Z",
+    "endTime": "2025-05-17T04:00:00Z",
+    "nemTime": "2025-05-17T14:00:00+10:00",
+    "perKwh": -3.7807,
+    "renewables": 64.59665448484084,
+    "spotPerKwh": 3.88221,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:00:01Z",
+    "endTime": "2025-05-17T04:05:00Z",
+    "nemTime": "2025-05-17T14:05:00+10:00",
+    "perKwh": -2.15013,
+    "renewables": 61.99504130605177,
+    "spotPerKwh": 2.20786,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:05:01Z",
+    "endTime": "2025-05-17T04:10:00Z",
+    "nemTime": "2025-05-17T14:10:00+10:00",
+    "perKwh": -0.96232,
+    "renewables": 61.27071830092555,
+    "spotPerKwh": 0.98816,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:10:01Z",
+    "endTime": "2025-05-17T04:15:00Z",
+    "nemTime": "2025-05-17T14:15:00+10:00",
+    "perKwh": -2.29554,
+    "renewables": 60.82069173896534,
+    "spotPerKwh": 2.35717,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:15:01Z",
+    "endTime": "2025-05-17T04:20:00Z",
+    "nemTime": "2025-05-17T14:20:00+10:00",
+    "perKwh": -5.57987,
+    "renewables": 59.28329531420148,
+    "spotPerKwh": 5.72968,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:20:01Z",
+    "endTime": "2025-05-17T04:25:00Z",
+    "nemTime": "2025-05-17T14:25:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 60.046510432219854,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:25:01Z",
+    "endTime": "2025-05-17T04:30:00Z",
+    "nemTime": "2025-05-17T14:30:00+10:00",
+    "perKwh": -5.9593,
+    "renewables": 57.026022846646995,
+    "spotPerKwh": 6.1193,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:30:01Z",
+    "endTime": "2025-05-17T04:35:00Z",
+    "nemTime": "2025-05-17T14:35:00+10:00",
+    "perKwh": -5.05208,
+    "renewables": 54.43358504097083,
+    "spotPerKwh": 5.18772,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:35:01Z",
+    "endTime": "2025-05-17T04:40:00Z",
+    "nemTime": "2025-05-17T14:40:00+10:00",
+    "perKwh": -4.81415,
+    "renewables": 56.56631614932293,
+    "spotPerKwh": 4.9434,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:40:01Z",
+    "endTime": "2025-05-17T04:45:00Z",
+    "nemTime": "2025-05-17T14:45:00+10:00",
+    "perKwh": -5.69392,
+    "renewables": 55.99073050588599,
+    "spotPerKwh": 5.84679,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:45:01Z",
+    "endTime": "2025-05-17T04:50:00Z",
+    "nemTime": "2025-05-17T14:50:00+10:00",
+    "perKwh": -5.43654,
+    "renewables": 55.54544049680478,
+    "spotPerKwh": 5.5825,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:50:01Z",
+    "endTime": "2025-05-17T04:55:00Z",
+    "nemTime": "2025-05-17T14:55:00+10:00",
+    "perKwh": -5.43654,
+    "renewables": 57.61820809697979,
+    "spotPerKwh": 5.5825,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T04:55:01Z",
+    "endTime": "2025-05-17T05:00:00Z",
+    "nemTime": "2025-05-17T15:00:00+10:00",
+    "perKwh": -5.43654,
+    "renewables": 57.10703408743043,
+    "spotPerKwh": 5.5825,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:00:01Z",
+    "endTime": "2025-05-17T05:05:00Z",
+    "nemTime": "2025-05-17T15:05:00+10:00",
+    "perKwh": -4.63204,
+    "renewables": 52.5461852291552,
+    "spotPerKwh": 4.7564,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:05:01Z",
+    "endTime": "2025-05-17T05:10:00Z",
+    "nemTime": "2025-05-17T15:10:00+10:00",
+    "perKwh": -4.81416,
+    "renewables": 49.73482984024689,
+    "spotPerKwh": 4.94341,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:10:01Z",
+    "endTime": "2025-05-17T05:15:00Z",
+    "nemTime": "2025-05-17T15:15:00+10:00",
+    "perKwh": -4.81416,
+    "renewables": 50.56958151402631,
+    "spotPerKwh": 4.94341,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:15:01Z",
+    "endTime": "2025-05-17T05:20:00Z",
+    "nemTime": "2025-05-17T15:20:00+10:00",
+    "perKwh": -3.72256,
+    "renewables": 50.60249709794231,
+    "spotPerKwh": 3.8225,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:20:01Z",
+    "endTime": "2025-05-17T05:25:00Z",
+    "nemTime": "2025-05-17T15:25:00+10:00",
+    "perKwh": -5.51152,
+    "renewables": 48.851483415843084,
+    "spotPerKwh": 5.6595,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:25:01Z",
+    "endTime": "2025-05-17T05:30:00Z",
+    "nemTime": "2025-05-17T15:30:00+10:00",
+    "perKwh": -8.56884,
+    "renewables": 47.06257787326621,
+    "spotPerKwh": 8.7989,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:30:01Z",
+    "endTime": "2025-05-17T05:35:00Z",
+    "nemTime": "2025-05-17T15:35:00+10:00",
+    "perKwh": -5.9593,
+    "renewables": 41.96071440603985,
+    "spotPerKwh": 6.1193,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:35:01Z",
+    "endTime": "2025-05-17T05:40:00Z",
+    "nemTime": "2025-05-17T15:40:00+10:00",
+    "perKwh": -4.43173,
+    "renewables": 42.102002931701406,
+    "spotPerKwh": 4.55071,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "low"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:40:01Z",
+    "endTime": "2025-05-17T05:45:00Z",
+    "nemTime": "2025-05-17T15:45:00+10:00",
+    "perKwh": -5.86611,
+    "renewables": 38.16084541055014,
+    "spotPerKwh": 6.02361,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:45:01Z",
+    "endTime": "2025-05-17T05:50:00Z",
+    "nemTime": "2025-05-17T15:50:00+10:00",
+    "perKwh": -9.04661,
+    "renewables": 36.20521691363787,
+    "spotPerKwh": 9.2895,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:50:01Z",
+    "endTime": "2025-05-17T05:55:00Z",
+    "nemTime": "2025-05-17T15:55:00+10:00",
+    "perKwh": -10.62883,
+    "renewables": 34.144785127162635,
+    "spotPerKwh": 10.9142,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T05:55:01Z",
+    "endTime": "2025-05-17T06:00:00Z",
+    "nemTime": "2025-05-17T16:00:00+10:00",
+    "perKwh": -12.38674,
+    "renewables": 33.6515036114645,
+    "spotPerKwh": 12.7193,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:00:01Z",
+    "endTime": "2025-05-17T06:05:00Z",
+    "nemTime": "2025-05-17T16:05:00+10:00",
+    "perKwh": -9.10446,
+    "renewables": 28.832434483548553,
+    "spotPerKwh": 9.3489,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:05:01Z",
+    "endTime": "2025-05-17T06:10:00Z",
+    "nemTime": "2025-05-17T16:10:00+10:00",
+    "perKwh": -21.42478,
+    "renewables": 26.78076492459557,
+    "spotPerKwh": 22,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:10:01Z",
+    "endTime": "2025-05-17T06:15:00Z",
+    "nemTime": "2025-05-17T16:15:00+10:00",
+    "perKwh": -17.52011,
+    "renewables": 25.004224564694645,
+    "spotPerKwh": 17.9905,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:15:01Z",
+    "endTime": "2025-05-17T06:20:00Z",
+    "nemTime": "2025-05-17T16:20:00+10:00",
+    "perKwh": -10.54635,
+    "renewables": 23.37675267760357,
+    "spotPerKwh": 10.8295,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:20:01Z",
+    "endTime": "2025-05-17T06:25:00Z",
+    "nemTime": "2025-05-17T16:25:00+10:00",
+    "perKwh": -22.97165,
+    "renewables": 22.038252981164682,
+    "spotPerKwh": 23.5884,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:25:01Z",
+    "endTime": "2025-05-17T06:30:00Z",
+    "nemTime": "2025-05-17T16:30:00+10:00",
+    "perKwh": -17.52011,
+    "renewables": 20.557442297946743,
+    "spotPerKwh": 17.9905,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:30:01Z",
+    "endTime": "2025-05-17T06:35:00Z",
+    "nemTime": "2025-05-17T16:35:00+10:00",
+    "perKwh": -34.22579,
+    "renewables": 13.671253780892926,
+    "spotPerKwh": 35.1447,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:35:01Z",
+    "endTime": "2025-05-17T06:40:00Z",
+    "nemTime": "2025-05-17T16:40:00+10:00",
+    "perKwh": -26.93545,
+    "renewables": 12.80200989313581,
+    "spotPerKwh": 27.65862,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:40:01Z",
+    "endTime": "2025-05-17T06:45:00Z",
+    "nemTime": "2025-05-17T16:45:00+10:00",
+    "perKwh": -12.38674,
+    "renewables": 10.777604143078252,
+    "spotPerKwh": 12.7193,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:45:01Z",
+    "endTime": "2025-05-17T06:50:00Z",
+    "nemTime": "2025-05-17T16:50:00+10:00",
+    "perKwh": -27.66046,
+    "renewables": 8.442613752751011,
+    "spotPerKwh": 28.4031,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:50:01Z",
+    "endTime": "2025-05-17T06:55:00Z",
+    "nemTime": "2025-05-17T16:55:00+10:00",
+    "perKwh": -24.19393,
+    "renewables": 6.723717497919654,
+    "spotPerKwh": 24.8435,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T06:55:01Z",
+    "endTime": "2025-05-17T07:00:00Z",
+    "nemTime": "2025-05-17T17:00:00+10:00",
+    "perKwh": -23.52976,
+    "renewables": 5.709876869046237,
+    "spotPerKwh": 24.1615,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "ActualInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:00:01Z",
+    "endTime": "2025-05-17T07:05:00Z",
+    "nemTime": "2025-05-17T17:05:00+10:00",
+    "perKwh": -25.73652,
+    "renewables": 3.9052282617073915,
+    "spotPerKwh": 26.4275,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high"
+  },
+  {
+    "type": "CurrentInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:05:01Z",
+    "endTime": "2025-05-17T07:10:00Z",
+    "nemTime": "2025-05-17T17:10:00+10:00",
+    "perKwh": -22.97165,
+    "renewables": 3.6510000000000002,
+    "spotPerKwh": 23.5884,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "estimate": false
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:10:01Z",
+    "endTime": "2025-05-17T07:15:00Z",
+    "nemTime": "2025-05-17T17:15:00+10:00",
+    "perKwh": -23.52976,
+    "renewables": 3.5129344693734423,
+    "spotPerKwh": 24.1615,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -18.06949,
+      "predicted": -21.66489,
+      "high": -29.13561
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:15:01Z",
+    "endTime": "2025-05-17T07:20:00Z",
+    "nemTime": "2025-05-17T17:20:00+10:00",
+    "perKwh": -29.88757,
+    "renewables": 3.2385570291043178,
+    "spotPerKwh": 30.69,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -17.2171,
+      "predicted": -21.38299,
+      "high": -28.68862
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:20:01Z",
+    "endTime": "2025-05-17T07:25:00Z",
+    "nemTime": "2025-05-17T17:25:00+10:00",
+    "perKwh": -35.55958,
+    "renewables": 2.967803239798909,
+    "spotPerKwh": 36.5143,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -15.9996,
+      "predicted": -20.44304,
+      "high": -28.30154
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:25:01Z",
+    "endTime": "2025-05-17T07:30:00Z",
+    "nemTime": "2025-05-17T17:30:00+10:00",
+    "perKwh": -29.88757,
+    "renewables": 2.6462187949287674,
+    "spotPerKwh": 30.69,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -15.69675,
+      "predicted": -19.60032,
+      "high": -28.79458
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:30:01Z",
+    "endTime": "2025-05-17T07:35:00Z",
+    "nemTime": "2025-05-17T17:35:00+10:00",
+    "perKwh": -27.00486,
+    "renewables": 2.417058682174268,
+    "spotPerKwh": 27.7299,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -14.95862,
+      "predicted": -18.77111,
+      "high": -26.65368
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:35:01Z",
+    "endTime": "2025-05-17T07:40:00Z",
+    "nemTime": "2025-05-17T17:40:00+10:00",
+    "perKwh": -30.52495,
+    "renewables": 2.348752510814498,
+    "spotPerKwh": 31.3445,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -14.8135,
+      "predicted": -18.42556,
+      "high": -25.06347
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:40:01Z",
+    "endTime": "2025-05-17T07:45:00Z",
+    "nemTime": "2025-05-17T17:45:00+10:00",
+    "perKwh": -29.88757,
+    "renewables": 2.3238514471170637,
+    "spotPerKwh": 30.69,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -14.48635,
+      "predicted": -18.41082,
+      "high": -25.09549
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:45:01Z",
+    "endTime": "2025-05-17T07:50:00Z",
+    "nemTime": "2025-05-17T17:50:00+10:00",
+    "perKwh": -15.49119,
+    "renewables": 2.311067198543952,
+    "spotPerKwh": 15.9071,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -14.10261,
+      "predicted": -17.37246,
+      "high": -24.41421
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:50:01Z",
+    "endTime": "2025-05-17T07:55:00Z",
+    "nemTime": "2025-05-17T17:55:00+10:00",
+    "perKwh": -23.57336,
+    "renewables": 2.2918825469148727,
+    "spotPerKwh": 24.20627,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -14.28306,
+      "predicted": -17.69171,
+      "high": -23.40694
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 5,
+    "startTime": "2025-05-17T07:55:01Z",
+    "endTime": "2025-05-17T08:00:00Z",
+    "nemTime": "2025-05-17T18:00:00+10:00",
+    "perKwh": -29.67332,
+    "renewables": 2.274357910874758,
+    "spotPerKwh": 30.47,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -13.97094,
+      "predicted": -17.54231,
+      "high": -23.06502
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T08:00:01Z",
+    "endTime": "2025-05-17T08:30:00Z",
+    "nemTime": "2025-05-17T18:30:00+10:00",
+    "perKwh": -24.19393,
+    "renewables": 2.9315529711981205,
+    "spotPerKwh": 24.8435,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -13.40819,
+      "predicted": -16.26002,
+      "high": -20.68632
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T08:30:01Z",
+    "endTime": "2025-05-17T09:00:00Z",
+    "nemTime": "2025-05-17T19:00:00+10:00",
+    "perKwh": -18.95157,
+    "renewables": 3.1652205175715755,
+    "spotPerKwh": 19.46039,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -12.22858,
+      "predicted": -14.60446,
+      "high": -18.66337
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T09:00:01Z",
+    "endTime": "2025-05-17T09:30:00Z",
+    "nemTime": "2025-05-17T19:30:00+10:00",
+    "perKwh": -13.98926,
+    "renewables": 3.3876415993224405,
+    "spotPerKwh": 14.36485,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -11.36099,
+      "predicted": -13.1689,
+      "high": -15.76747
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T09:30:01Z",
+    "endTime": "2025-05-17T10:00:00Z",
+    "nemTime": "2025-05-17T20:00:00+10:00",
+    "perKwh": -13.93283,
+    "renewables": 3.659073270286585,
+    "spotPerKwh": 14.3069,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -10.75874,
+      "predicted": -12.65439,
+      "high": -14.38395
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T10:00:01Z",
+    "endTime": "2025-05-17T10:30:00Z",
+    "nemTime": "2025-05-17T20:30:00+10:00",
+    "perKwh": -11.76948,
+    "renewables": 3.9739429485548943,
+    "spotPerKwh": 12.08547,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -9.92706,
+      "predicted": -11.95476,
+      "high": -14.02118
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T10:30:01Z",
+    "endTime": "2025-05-17T11:00:00Z",
+    "nemTime": "2025-05-17T21:00:00+10:00",
+    "perKwh": -10.62883,
+    "renewables": 4.243013609889813,
+    "spotPerKwh": 10.9142,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -9.70726,
+      "predicted": -11.41494,
+      "high": -13.94389
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T11:00:01Z",
+    "endTime": "2025-05-17T11:30:00Z",
+    "nemTime": "2025-05-17T21:30:00+10:00",
+    "perKwh": -12.33414,
+    "renewables": 4.453017121555295,
+    "spotPerKwh": 12.66529,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -9.30832,
+      "predicted": -11.352,
+      "high": -13.98637
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T11:30:01Z",
+    "endTime": "2025-05-17T12:00:00Z",
+    "nemTime": "2025-05-17T22:00:00+10:00",
+    "perKwh": -10.37281,
+    "renewables": 4.7152965405033775,
+    "spotPerKwh": 10.6513,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -9.18645,
+      "predicted": -11.38307,
+      "high": -13.82365
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T12:00:01Z",
+    "endTime": "2025-05-17T12:30:00Z",
+    "nemTime": "2025-05-17T22:30:00+10:00",
+    "perKwh": -14.42114,
+    "renewables": 4.746612685047028,
+    "spotPerKwh": 14.80832,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -9.01572,
+      "predicted": -11.16929,
+      "high": -13.95999
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T12:30:01Z",
+    "endTime": "2025-05-17T13:00:00Z",
+    "nemTime": "2025-05-17T23:00:00+10:00",
+    "perKwh": -13.86719,
+    "renewables": 4.725072940491874,
+    "spotPerKwh": 14.2395,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -9.03962,
+      "predicted": -11.37036,
+      "high": -14.02911
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T13:00:01Z",
+    "endTime": "2025-05-17T13:30:00Z",
+    "nemTime": "2025-05-17T23:30:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 4.8210235807168305,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -8.72174,
+      "predicted": -10.39289,
+      "high": -13.17936
+    }
+  },
+  {
+    "type": "ForecastInterval",
+    "date": "2025-05-17",
+    "duration": 30,
+    "startTime": "2025-05-17T13:30:01Z",
+    "endTime": "2025-05-17T14:00:00Z",
+    "nemTime": "2025-05-18T00:00:00+10:00",
+    "perKwh": -10.8013,
+    "renewables": 5.089967777528079,
+    "spotPerKwh": 11.0913,
+    "channelType": "feedIn",
+    "spikeStatus": "none",
+    "descriptor": "high",
+    "advancedPrice": {
+      "low": -8.57608,
+      "predicted": -10.16549,
+      "high": -12.2736
+    }
+  }
+]

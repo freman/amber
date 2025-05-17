@@ -21,6 +21,7 @@ type Client struct {
 	token string
 
 	httpClient *http.Client
+	baseURL    string
 }
 
 var ErrInvalidState = errors.New("invalid state provided, valid states are nsw, sa, qld, or vic")
@@ -40,6 +41,10 @@ func New(token string, opts ...Option) *Client {
 		}
 	}
 
+	if c.baseURL == "" {
+		c.baseURL = "https://api.amber.com.au/v1"
+	}
+
 	return &c
 }
 
@@ -57,7 +62,7 @@ func (c *Client) GetCurrentRenewables(state string, args ...QueryArgument) ([]sc
 		return nil, ErrInvalidState
 	}
 
-	uri := fmt.Sprintf("https://api.amber.com.au/v1/state/%s/renewables/current", state)
+	uri := fmt.Sprintf(c.baseURL+"/state/%s/renewables/current", state)
 
 	query := url.Values{
 		"resolution": []string{"30"},
@@ -80,7 +85,7 @@ func (c *Client) GetCurrentRenewables(state string, args ...QueryArgument) ([]sc
 // GetSites returns all sites linked to your account.
 func (c *Client) GetSites() ([]schema.Site, error) {
 	var res []schema.Site
-	if err := c.get("https://api.amber.com.au/v1/sites", &res); err != nil {
+	if err := c.get(c.baseURL+"/sites", &res); err != nil {
 		return nil, err
 	}
 
@@ -96,24 +101,20 @@ func (c *Client) GetSites() ([]schema.Site, error) {
 //	WithStartDate - Return all prices for each interval on and after this day. Defaults to today.
 //	WithEndDate - Return all prices for each interval on and before this day. Defaults to today.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 5, 30. Default: 30
-func (c *Client) GetPrices(siteID string, args ...QueryArgument) ([]schema.Interval, error) {
-	uri := fmt.Sprintf("https://api.amber.com.au/v1/sites/%s/prices", siteID)
+func (c *Client) GetPrices(siteID string, args ...QueryArgument) (schema.IntervalMap[schema.Interval], error) {
+	uri := fmt.Sprintf(c.baseURL+"/sites/%s/prices", siteID)
 
-	now := time.Now().Format(time.DateOnly)
-
-	query := url.Values{
-		"startDate":  []string{now},
-		"endDate":    []string{now},
-		"resolution": []string{"30"},
-	}
+	query := url.Values{}
 
 	for _, arg := range args {
 		arg(query)
 	}
 
-	uri += "?" + query.Encode()
+	if len(query) > 0 {
+		uri += "?" + query.Encode()
+	}
 
-	var res []schema.Interval
+	var res schema.IntervalMap[schema.Interval]
 	if err := c.get(uri, &res); err != nil {
 		return nil, err
 	}
@@ -131,7 +132,7 @@ func (c *Client) GetPrices(siteID string, args ...QueryArgument) ([]schema.Inter
 //	WithPrevious - Return the previous number of actual intervals.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
 func (c *Client) GetCurrentPrices(siteID string, args ...QueryArgument) ([]schema.Interval, error) {
-	uri := fmt.Sprintf("https://api.amber.com.au/v1/sites/%s/prices/current", siteID)
+	uri := fmt.Sprintf(c.baseURL+"/sites/%s/prices/current", siteID)
 
 	query := url.Values{
 		"resolution": []string{"30"},
@@ -162,7 +163,7 @@ func (c *Client) GetCurrentPrices(siteID string, args ...QueryArgument) ([]schem
 //	WithEndDate - Return all usage for each interval on and before this day.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
 func (c *Client) GetUsage(siteID string, args ...QueryArgument) ([]schema.Usage, error) {
-	uri := fmt.Sprintf("https://api.amber.com.au/v1/sites/%s/usage", siteID)
+	uri := fmt.Sprintf(c.baseURL+"/sites/%s/usage", siteID)
 
 	query := url.Values{
 		"resolution": []string{"30"},
