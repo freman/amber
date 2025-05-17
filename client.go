@@ -57,7 +57,7 @@ func New(token string, opts ...Option) *Client {
 //	WithNext - Return the next number of forecast intervals
 //	WithPrevious - Return the previous number of actual intervals.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
-func (c *Client) GetCurrentRenewables(state string, args ...QueryArgument) ([]schema.Renewable, error) {
+func (c *Client) GetCurrentRenewables(state string, args ...DayQueryArgument) ([]schema.Renewable, error) {
 	if !(state == "nsw" || state == "qld" || state == "vic" || state == "sa") {
 		return nil, ErrInvalidState
 	}
@@ -101,7 +101,7 @@ func (c *Client) GetSites() ([]schema.Site, error) {
 //	WithStartDate - Return all prices for each interval on and after this day. Defaults to today.
 //	WithEndDate - Return all prices for each interval on and before this day. Defaults to today.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 5, 30. Default: 30
-func (c *Client) GetPrices(siteID string, args ...QueryArgument) (schema.IntervalMap[schema.Interval], error) {
+func (c *Client) GetPrices(siteID string, args ...DateQueryArgument) (schema.IntervalMap[schema.Interval], error) {
 	uri := fmt.Sprintf(c.baseURL+"/sites/%s/prices", siteID)
 
 	query := url.Values{}
@@ -131,12 +131,10 @@ func (c *Client) GetPrices(siteID string, args ...QueryArgument) (schema.Interva
 //	WithNext - Return the next number of forecast intervals
 //	WithPrevious - Return the previous number of actual intervals.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
-func (c *Client) GetCurrentPrices(siteID string, args ...QueryArgument) ([]schema.Interval, error) {
+func (c *Client) GetCurrentPrices(siteID string, args ...DateQueryArgument) (schema.IntervalMap[schema.Interval], error) {
 	uri := fmt.Sprintf(c.baseURL+"/sites/%s/prices/current", siteID)
 
-	query := url.Values{
-		"resolution": []string{"30"},
-	}
+	query := url.Values{}
 
 	for _, arg := range args {
 		arg(query)
@@ -144,7 +142,7 @@ func (c *Client) GetCurrentPrices(siteID string, args ...QueryArgument) ([]schem
 
 	uri += "?" + query.Encode()
 
-	var res []schema.Interval
+	var res schema.IntervalMap[schema.Interval]
 	if err := c.get(uri, &res); err != nil {
 		return nil, err
 	}
@@ -162,7 +160,7 @@ func (c *Client) GetCurrentPrices(siteID string, args ...QueryArgument) ([]schem
 //	WithStartDate - Return all usage for each interval on and after this day.
 //	WithEndDate - Return all usage for each interval on and before this day.
 //	WithResolution - Specify the required interval duration resolution. Valid options: 30. Default: 30
-func (c *Client) GetUsage(siteID string, args ...QueryArgument) ([]schema.Usage, error) {
+func (c *Client) GetUsage(siteID string, args ...DateQueryArgument) ([]schema.Usage, error) {
 	uri := fmt.Sprintf(c.baseURL+"/sites/%s/usage", siteID)
 
 	query := url.Values{

@@ -11,33 +11,34 @@ import (
 	"time"
 )
 
-type QueryArgument func(v url.Values)
+type DateQueryArgument func(v url.Values)
+type DayQueryArgument func(v url.Values)
 
-func WithNext(intervals uint) QueryArgument {
+func WithNext(intervals uint) DayQueryArgument {
 	return func(v url.Values) {
 		v.Set("next", strconv.Itoa(int(intervals)))
 	}
 }
 
-func WithPrevious(intervals uint) QueryArgument {
+func WithPrevious(intervals uint) DayQueryArgument {
 	return func(v url.Values) {
 		v.Set("previous", strconv.Itoa(int(intervals)))
 	}
 }
 
-func WithResolution(resolution uint) QueryArgument {
+func WithResolution[T DateQueryArgument | DayQueryArgument](resolution uint) T {
 	return func(v url.Values) {
 		v.Set("resolution", strconv.Itoa(int(resolution)))
 	}
 }
 
-func WithStartDate(date time.Time) QueryArgument {
+func WithStartDate(date time.Time) DateQueryArgument {
 	return func(v url.Values) {
 		v.Set("startDate", date.Format(time.DateOnly))
 	}
 }
 
-func WithEndDate(date time.Time) QueryArgument {
+func WithEndDate(date time.Time) DateQueryArgument {
 	return func(v url.Values) {
 		v.Set("endDate", date.Format(time.DateOnly))
 	}
