@@ -1,0 +1,22 @@
+[
+  {
+    "id": "THATSALITTLEPERSONAL",
+    "nmi": "0123456789",
+    "channels": [
+      {
+        "identifier": "E1",
+        "type": "general",
+        "tariff": "3950"
+      },
+      {
+        "identifier": "B1",
+        "type": "feedIn",
+        "tariff": "9850"
+      }
+    ],
+    "network": "Energex",
+    "status": "active",
+    "activeFrom": "2023-05-01",
+    "intervalLength": 5
+  }
+]
